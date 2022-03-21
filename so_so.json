@@ -18,7 +18,8 @@
     "advancements.adventure.ol_betsy.title": "Ol 'betsy",
     "advancements.adventure.shoot_arrow.description": "Fallaar wax ku toog",
     "advancements.adventure.sleep_in_bed.description": "Ku seexo sariir si aad u bedesho bartaada dib u dhiska",
-    "advancements.adventure.throw_trident.description": "Isku day inaad shil gashid wax.\nFiiro gaar ah: Isku-tuuridda qalabkaaga kaliya ma aha fikrad wanaagsan.",
+    "advancements.adventure.throw_trident.description": "Isku day inaad shil gashid wax.
+Fiiro gaar ah: Isku-tuuridda qalabkaaga kaliya ma aha fikrad wanaagsan.",
     "advancements.adventure.two_birds_one_arrow.description": "Ku dil laba xabbo oo leh fallaar leh",
     "advancements.adventure.two_birds_one_arrow.title": "Laba shimbir, hal fallaadh",
     "advancements.adventure.very_very_frightening.description": "Ku dhufo Villager leh hillaac",
@@ -37,7 +38,7 @@
     "advancements.husbandry.tactical_fishing.description": "Qaado kalluun... adigoon lahayn ulo kalluumeysi!",
     "advancements.husbandry.tactical_fishing.title": "Kalluumeysiga Xeeladaha",
     "advancements.nether.charge_respawn_anchor.description": "Kordhi Barroosinka Respawn ugu badnaan",
-    "advancements.nether.charge_respawn_anchor.title": "Not Quite \"Nine\" Lives",
+    "advancements.nether.charge_respawn_anchor.title": "Not Quite "Nine" Lives",
     "advancements.nether.create_beacon.description": "Samee oo dhig Beacon",
     "advancements.nether.distract_piglin.description": "Mashquul Piglins leh dahab",
     "advancements.nether.distract_piglin.title": "Oh dhalaalaya",
@@ -62,7 +63,8 @@
     "advancements.story.form_obsidian.description": "Raadi obsidian",
     "advancements.story.root.title": "Minecraft",
     "argument.angle.incomplete": "Aan dhameystirneyn (1 xagal la filaayo)",
-    "argument.criteria.invalid": "Heerka aan la garanayn '%s'\n",
+    "argument.criteria.invalid": "Heerka aan la garanayn '%s'
+",
     "argument.entity.options.predicate.description": "Sifee",
     "argument.entity.selector.allPlayers": "Dhamaan ciyaartoyda",
     "argument.entity.selector.nearestPlayer": "Ciyaarta ugu dhow",
@@ -81,18 +83,23 @@
     "attribute.modifier.take.0": "-%s %s",
     "attribute.modifier.take.1": "-%s%% %s",
     "attribute.modifier.take.2": "-%s%% %s",
-    "attribute.name.generic.attack_knockback": "Weeraro Knockback\n",
+    "attribute.name.generic.attack_knockback": "Weeraro Knockback
+",
     "attribute.name.generic.flying_speed": "Xawaaraha duulaya",
     "attribute.unknown": "Aan la aqoon sifoka",
     "biome.minecraft.bamboo_jungle": "Bamboo xumbada",
     "biome.minecraft.bamboo_jungle_hills": "Buuraha xeebaha leh",
-    "biome.minecraft.basalt_deltas": "Basalt Deltas\n",
+    "biome.minecraft.basalt_deltas": "Basalt Deltas
+",
     "biome.minecraft.crimson_forest": "Crimson Duur",
     "biome.minecraft.desert": "Lamadegaanka",
-    "biome.minecraft.nether_wastes": "Nether W \u1323\u12d5\u121d\n",
-    "biome.minecraft.soul_sand_valley": "Soul Sand Valley\n",
+    "biome.minecraft.nether_wastes": "Nether W ጣዕም
+",
+    "biome.minecraft.soul_sand_valley": "Soul Sand Valley
+",
     "biome.minecraft.the_void": "The Void",
-    "biome.minecraft.warped_forest": "Duur Dagaal\n",
+    "biome.minecraft.warped_forest": "Duur Dagaal
+",
     "block.minecraft.acacia_button": "Badhanka acacia",
     "block.minecraft.acacia_door": "Acacia albaabka",
     "block.minecraft.acacia_fence": "Xayndaabka Acacia",
@@ -111,7 +118,8 @@
     "block.minecraft.activator_rail": "Firfircoonaan biraha",
     "block.minecraft.air": "Hawo",
     "block.minecraft.allium": "Allium",
-    "block.minecraft.ancient_debris": "Burburkii Qadiimiga ahaa\n",
+    "block.minecraft.ancient_debris": "Burburkii Qadiimiga ahaa
+",
     "block.minecraft.andesite": "Andesite",
     "block.minecraft.andesite_slab": "Weelka iyo weelka",
     "block.minecraft.andesite_stairs": "Jaranjaro iyo jaranjaro",
@@ -121,7 +129,8 @@
     "block.minecraft.attached_pumpkin_stem": "Stem Pumpkin Stem",
     "block.minecraft.azure_bluet": "Haustonia cawlan",
     "block.minecraft.bamboo": "Dhir dheer",
-    "block.minecraft.bamboo_sapling": "Bamboo Shoot\n",
+    "block.minecraft.bamboo_sapling": "Bamboo Shoot
+",
     "block.minecraft.banner.piglin.black": "Cunto madow",
     "block.minecraft.banner.piglin.blue": "Cunto buluug",
     "block.minecraft.banner.piglin.brown": "Cunto bunni",
@@ -140,11 +149,13 @@
     "block.minecraft.banner.piglin.yellow": "Cunto Jaale",
     "block.minecraft.barrel": "Foosto",
     "block.minecraft.barrier": "Ooday",
-    "block.minecraft.basalt": "Basalt\n",
+    "block.minecraft.basalt": "Basalt
+",
     "block.minecraft.beacon": "Iftiinka",
     "block.minecraft.beacon.primary": "Awood Kowaad",
     "block.minecraft.beacon.secondary": "Awood Lawaad",
-    "block.minecraft.bed.no_sleep": "Waxaad seexan kartaa habeenka oo keliya ama xilliga duufaantu dhacdo\n",
+    "block.minecraft.bed.no_sleep": "Waxaad seexan kartaa habeenka oo keliya ama xilliga duufaantu dhacdo
+",
     "block.minecraft.bed.not_safe": "Waxa laga yaabaa inaadan nasan hadda; waxaa jira daanyeero u dhow",
     "block.minecraft.bed.obstructed": "Sariirtani waa mid xanniban",
     "block.minecraft.bed.occupied": "Sariirtan ayaa lagu dhexjiray",
@@ -163,11 +174,11 @@
     "block.minecraft.birch_planks": "Qorshaha Birch",
     "block.minecraft.birch_pressure_plate": "Cadaadiska Birch Cadaadiska",
     "block.minecraft.birch_sapling": "Birch Sapling",
-    "block.minecraft.birch_sign": "Saxiix bj\u00f8rk",
-    "block.minecraft.birch_slab": "Bj\u00f8rk Xargaha",
-    "block.minecraft.birch_stairs": "Bj\u00f8rk Jaranjaro",
+    "block.minecraft.birch_sign": "Saxiix bjørk",
+    "block.minecraft.birch_slab": "Bjørk Xargaha",
+    "block.minecraft.birch_stairs": "Bjørk Jaranjaro",
     "block.minecraft.birch_trapdoor": "Birch Hatch",
-    "block.minecraft.birch_wall_sign": "Bj\u00f8rk derbiga saxiix",
+    "block.minecraft.birch_wall_sign": "Bjørk derbiga saxiix",
     "block.minecraft.birch_wood": "Geedka Birch",
     "block.minecraft.black_bed": "Sariirta madow",
     "block.minecraft.black_carpet": "Black kaarbadka",
@@ -176,10 +187,14 @@
     "block.minecraft.black_stained_glass_pane": "Black wasakheeyey Murayaad",
     "block.minecraft.black_terracotta": "Ceramics madow",
     "block.minecraft.black_wool": "Wool madow",
-    "block.minecraft.blackstone": "Madoow\n",
-    "block.minecraft.blackstone_slab": "Blackstone Slab\n",
-    "block.minecraft.blackstone_stairs": "Jaranjarada Madoow\n",
-    "block.minecraft.blackstone_wall": "Darbiga Madoow\n",
+    "block.minecraft.blackstone": "Madoow
+",
+    "block.minecraft.blackstone_slab": "Blackstone Slab
+",
+    "block.minecraft.blackstone_stairs": "Jaranjarada Madoow
+",
+    "block.minecraft.blackstone_wall": "Darbiga Madoow
+",
     "block.minecraft.blast_furnace": "Foornada qarxa",
     "block.minecraft.blue_bed": "Sariirta Buluugga ah",
     "block.minecraft.blue_carpet": "Blue kaarbadka",
@@ -219,8 +234,10 @@
     "block.minecraft.chain_command_block": "Ku celcelinta leben amarka",
     "block.minecraft.chest": "Sanduuq",
     "block.minecraft.chipped_anvil": "Xanrunta jaban",
-    "block.minecraft.chiseled_nether_bricks": "Jidadka loo yaqaan 'Chiseled Nether Brick'\n",
-    "block.minecraft.chiseled_polished_blackstone": "Dhagax Dallaaley ah\n",
+    "block.minecraft.chiseled_nether_bricks": "Jidadka loo yaqaan 'Chiseled Nether Brick'
+",
+    "block.minecraft.chiseled_polished_blackstone": "Dhagax Dallaaley ah
+",
     "block.minecraft.chiseled_quartz_block": "chiseled xannibaadda quarterz",
     "block.minecraft.chiseled_red_sandstone": "Qoray Red sandstone",
     "block.minecraft.chiseled_sandstone": "Qoray sandstone",
@@ -239,28 +256,42 @@
     "block.minecraft.cocoa": "Kookaha",
     "block.minecraft.command_block": "Lebenkii amarka",
     "block.minecraft.cornflower": "Miisaanka qulqulka",
-    "block.minecraft.cracked_nether_bricks": "Burburkii Nether Brick\n",
-    "block.minecraft.cracked_polished_blackstone_bricks": "Dhagax Madoow oo la jeexjeexay\n",
+    "block.minecraft.cracked_nether_bricks": "Burburkii Nether Brick
+",
+    "block.minecraft.cracked_polished_blackstone_bricks": "Dhagax Madoow oo la jeexjeexay
+",
     "block.minecraft.cracked_stone_bricks": "Lebenkii qoray Stone",
     "block.minecraft.crafting_table": "Workbench",
     "block.minecraft.creeper_wall_head": "Madaxa derbiga derbiga",
-    "block.minecraft.crimson_button": "Jaranjarooyinka Dulmiga ah\n",
-    "block.minecraft.crimson_door": "Albaabka Dambiilaha\n",
-    "block.minecraft.crimson_fence": "Garyaqaan Fardowso\n",
+    "block.minecraft.crimson_button": "Jaranjarooyinka Dulmiga ah
+",
+    "block.minecraft.crimson_door": "Albaabka Dambiilaha
+",
+    "block.minecraft.crimson_fence": "Garyaqaan Fardowso
+",
     "block.minecraft.crimson_fence_gate": "Albaabada Fudud",
     "block.minecraft.crimson_fungus": "Crimson Fungus",
-    "block.minecraft.crimson_hyphae": "Dambiilaha Caanka Ah\n",
-    "block.minecraft.crimson_nylium": "Crimson Nylium\n",
-    "block.minecraft.crimson_planks": "Planson Planson\n",
-    "block.minecraft.crimson_pressure_plate": "Cadaadiska Cadaadiska\n",
+    "block.minecraft.crimson_hyphae": "Dambiilaha Caanka Ah
+",
+    "block.minecraft.crimson_nylium": "Crimson Nylium
+",
+    "block.minecraft.crimson_planks": "Planson Planson
+",
+    "block.minecraft.crimson_pressure_plate": "Cadaadiska Cadaadiska
+",
     "block.minecraft.crimson_roots": "Xididdada gaduudka",
     "block.minecraft.crimson_sign": "Calaamadda Cas",
-    "block.minecraft.crimson_slab": "Crimson Slab\n",
-    "block.minecraft.crimson_stairs": "Jaranjarooyinka Dulmiga ah\n",
-    "block.minecraft.crimson_stem": "Dembiilaha Dambiilaha\n",
-    "block.minecraft.crimson_trapdoor": "Crimson Trapdoor\n",
+    "block.minecraft.crimson_slab": "Crimson Slab
+",
+    "block.minecraft.crimson_stairs": "Jaranjarooyinka Dulmiga ah
+",
+    "block.minecraft.crimson_stem": "Dembiilaha Dambiilaha
+",
+    "block.minecraft.crimson_trapdoor": "Crimson Trapdoor
+",
     "block.minecraft.crimson_wall_sign": "Crimson calaamadda darbiga",
-    "block.minecraft.crying_obsidian": "Oohinta Obsidian\n",
+    "block.minecraft.crying_obsidian": "Oohinta Obsidian
+",
     "block.minecraft.cut_red_sandstone": "Iska yaree sanduuqa casaanka ah",
     "block.minecraft.cut_red_sandstone_slab": "Cut Red Sandstone Slab",
     "block.minecraft.cut_sandstone": "Iska yaree sanduuqa",
@@ -275,7 +306,7 @@
     "block.minecraft.cyan_terracotta": "Cyan Terracotta",
     "block.minecraft.cyan_wool": "Cyan Wool",
     "block.minecraft.damaged_anvil": "Xudun yar oo jabtay",
-    "block.minecraft.dandelion": "L\u00f8vetann",
+    "block.minecraft.dandelion": "Løvetann",
     "block.minecraft.dark_oak_button": "Badhanka Oak madow",
     "block.minecraft.dark_oak_door": "Madow oak albaabka",
     "block.minecraft.dark_oak_fence": "Xayndaabka oak madoow",
@@ -330,7 +361,8 @@
     "block.minecraft.flower_pot": "Dheriga ubaxa",
     "block.minecraft.frosted_ice": "Baraf barafoobay",
     "block.minecraft.furnace": "Foornada",
-    "block.minecraft.gilded_blackstone": "Gelded Blackstone\n",
+    "block.minecraft.gilded_blackstone": "Gelded Blackstone
+",
     "block.minecraft.glass": "Galaas",
     "block.minecraft.glass_pane": "Murayaad",
     "block.minecraft.glowstone": "Glowstone",
@@ -459,13 +491,15 @@
     "block.minecraft.nether_brick_stairs": "Jaranjarada Nether Brick",
     "block.minecraft.nether_brick_wall": "Derbiga lebiska",
     "block.minecraft.nether_bricks": "lebenkii jahannamada",
-    "block.minecraft.nether_gold_ore": "Nether Gold Ore\n",
+    "block.minecraft.nether_gold_ore": "Nether Gold Ore
+",
     "block.minecraft.nether_portal": "Xulka Nether Portal",
     "block.minecraft.nether_quartz_ore": "Jutchz",
     "block.minecraft.nether_sprouts": "Noocyada ee loo yaqaan 'Nether Sprouts'",
     "block.minecraft.nether_wart": "Nether Wart",
     "block.minecraft.nether_wart_block": "Kala Soco Wart Block",
-    "block.minecraft.netherite_block": "Xirmooyinka Netherite\n",
+    "block.minecraft.netherite_block": "Xirmooyinka Netherite
+",
     "block.minecraft.netherrack": "Netherrack",
     "block.minecraft.note_block": "Xusuus qor",
     "block.minecraft.oak_button": "Badhanka Oak",
@@ -512,16 +546,26 @@
     "block.minecraft.polished_andesite": "Smooth Andesite",
     "block.minecraft.polished_andesite_slab": "Daboolan oo laysku qurxiyo",
     "block.minecraft.polished_andesite_stairs": "Jaranjarooyinka laysku qurxiyo",
-    "block.minecraft.polished_basalt": "Basalt Polured\n",
-    "block.minecraft.polished_blackstone": "Madoowga Madoow\n",
-    "block.minecraft.polished_blackstone_brick_slab": "Dhagaxa madow ee loo yaqaan 'Blackstone Brick Slab'\n",
-    "block.minecraft.polished_blackstone_brick_stairs": "Jaranjarada Dhagaxa ah ee loo yaqaan 'Blackstone Briit'\n",
-    "block.minecraft.polished_blackstone_brick_wall": "Darbiga Madoow ee Dhagaxa ah\n",
-    "block.minecraft.polished_blackstone_bricks": "Laydhka Madoow ee la Dhajiyay\n",
-    "block.minecraft.polished_blackstone_button": "Bambada madow ee la nuujiyey\n",
-    "block.minecraft.polished_blackstone_pressure_plate": "Cadaadiska Cadaanka Madoow ee Cadaanka ah\n",
-    "block.minecraft.polished_blackstone_slab": "Madoowga Madoow\n",
-    "block.minecraft.polished_blackstone_stairs": "Jaranjarada Madoow\n",
+    "block.minecraft.polished_basalt": "Basalt Polured
+",
+    "block.minecraft.polished_blackstone": "Madoowga Madoow
+",
+    "block.minecraft.polished_blackstone_brick_slab": "Dhagaxa madow ee loo yaqaan 'Blackstone Brick Slab'
+",
+    "block.minecraft.polished_blackstone_brick_stairs": "Jaranjarada Dhagaxa ah ee loo yaqaan 'Blackstone Briit'
+",
+    "block.minecraft.polished_blackstone_brick_wall": "Darbiga Madoow ee Dhagaxa ah
+",
+    "block.minecraft.polished_blackstone_bricks": "Laydhka Madoow ee la Dhajiyay
+",
+    "block.minecraft.polished_blackstone_button": "Bambada madow ee la nuujiyey
+",
+    "block.minecraft.polished_blackstone_pressure_plate": "Cadaadiska Cadaanka Madoow ee Cadaanka ah
+",
+    "block.minecraft.polished_blackstone_slab": "Madoowga Madoow
+",
+    "block.minecraft.polished_blackstone_stairs": "Jaranjarada Madoow
+",
     "block.minecraft.polished_blackstone_wall": "Darbiga Dhagaxa ah ee Madoow",
     "block.minecraft.polished_diorite": "Granite Polished",
     "block.minecraft.polished_diorite_slab": "Daboolka diorite ee dhalaalaya",
@@ -534,12 +578,16 @@
     "block.minecraft.potted_bamboo": "Bambo qadhaadh ah",
     "block.minecraft.potted_cactus": "Castrated Tictus",
     "block.minecraft.potted_cornflower": "Dhirta la kariyey",
-    "block.minecraft.potted_crimson_fungus": "Dheecaan Dheecaan Dheecaan\n",
-    "block.minecraft.potted_crimson_roots": "Xididdada Dambiilaha Dheriga\n",
+    "block.minecraft.potted_crimson_fungus": "Dheecaan Dheecaan Dheecaan
+",
+    "block.minecraft.potted_crimson_roots": "Xididdada Dambiilaha Dheriga
+",
     "block.minecraft.potted_dead_bush": "Duurka loo yaqaan pott",
     "block.minecraft.potted_lily_of_the_valley": "Laydi dhoobo ah ee dooxada",
-    "block.minecraft.potted_warped_fungus": "Dheecaan Dheecaan karsan\n",
-    "block.minecraft.potted_warped_roots": "Xididdada Xididaysan\n",
+    "block.minecraft.potted_warped_fungus": "Dheecaan Dheecaan karsan
+",
+    "block.minecraft.potted_warped_roots": "Xididdada Xididaysan
+",
     "block.minecraft.potted_wither_rose": "Qallajiyey qadhaadh",
     "block.minecraft.powered_rail": "Korantada biraha",
     "block.minecraft.prismarine": "Prismarine",
@@ -565,7 +613,8 @@
     "block.minecraft.purpur_slab": "Ujeeddooyin Slab",
     "block.minecraft.purpur_stairs": "Jaranjarooyinka Ujeeddada",
     "block.minecraft.quartz_block": "Xannibaadda quarterz",
-    "block.minecraft.quartz_bricks": "Nalalka Quartz\n",
+    "block.minecraft.quartz_bricks": "Nalalka Quartz
+",
     "block.minecraft.quartz_pillar": "Tilmaamaha rubuc",
     "block.minecraft.quartz_slab": "Quartz Slab",
     "block.minecraft.quartz_stairs": "Jaranjarooyinka rubuc",
@@ -597,7 +646,8 @@
     "block.minecraft.redstone_wall_torch": "Redstone Nalka Darbiga",
     "block.minecraft.redstone_wire": "Redstone xadhig",
     "block.minecraft.repeating_command_block": "Ku celcelinta leben amarka",
-    "block.minecraft.respawn_anchor": "Dib-u-hagaajinta Xarigga\n",
+    "block.minecraft.respawn_anchor": "Dib-u-hagaajinta Xarigga
+",
     "block.minecraft.rose_bush": "Cawska casaan",
     "block.minecraft.sand": "Sand",
     "block.minecraft.sandstone": "Sandstone",
@@ -609,7 +659,8 @@
     "block.minecraft.sea_pickle": "Qajaar badda",
     "block.minecraft.seagrass": "Cawska Badda",
     "block.minecraft.set_spawn": "Barta dhalashada rakibay",
-    "block.minecraft.shroomlight": "Nalka shubka\n",
+    "block.minecraft.shroomlight": "Nalka shubka
+",
     "block.minecraft.shulker_box": "Sanduuqa Sholle",
     "block.minecraft.skeleton_skull": "Qalfoofka skeleton",
     "block.minecraft.skeleton_wall_skull": "Qalfoofka darbiga",
@@ -629,13 +680,16 @@
     "block.minecraft.smooth_stone_slab": "Santuuq dhagax siman",
     "block.minecraft.snow": "Baraf",
     "block.minecraft.snow_block": "Barafka barafka",
-    "block.minecraft.soul_campfire": "Nafta Xerada dabka\n",
-    "block.minecraft.soul_fire": "Nafta Dabka\n",
+    "block.minecraft.soul_campfire": "Nafta Xerada dabka
+",
+    "block.minecraft.soul_fire": "Nafta Dabka
+",
     "block.minecraft.soul_lantern": "Nalalka",
     "block.minecraft.soul_sand": "Soul ciid",
     "block.minecraft.soul_soil": "Nafta",
     "block.minecraft.soul_torch": "Soul Torch",
-    "block.minecraft.soul_wall_torch": "Soul Wall Torch\n",
+    "block.minecraft.soul_wall_torch": "Soul Wall Torch
+",
     "block.minecraft.spawn.not_valid": "Ma haysatid guriga sariirta ama eedeeyay barroosinka reappearance, ama waxaa la bixi waaya",
     "block.minecraft.spawner": "Spawner",
     "block.minecraft.sponge": "Isbonji",
@@ -669,8 +723,10 @@
     "block.minecraft.stripped_acacia_wood": "Stacpped Acacia Wood",
     "block.minecraft.stripped_birch_log": "Xarig Bir Ah",
     "block.minecraft.stripped_birch_wood": "Alwaax gubatay",
-    "block.minecraft.stripped_crimson_hyphae": "Dambiistaha loo yaqaan 'Crimson Hyphae'\n",
-    "block.minecraft.stripped_crimson_stem": "Dambiistaha loo yaqaan 'Crimson Stem'\n",
+    "block.minecraft.stripped_crimson_hyphae": "Dambiistaha loo yaqaan 'Crimson Hyphae'
+",
+    "block.minecraft.stripped_crimson_stem": "Dambiistaha loo yaqaan 'Crimson Stem'
+",
     "block.minecraft.stripped_dark_oak_log": "Qufulkii loo yaqaan",
     "block.minecraft.stripped_dark_oak_wood": "Dhuftay madow Oak Wood",
     "block.minecraft.stripped_jungle_log": "Diiwaanka Jungle",
@@ -679,8 +735,10 @@
     "block.minecraft.stripped_oak_wood": "Dhuftay Oak",
     "block.minecraft.stripped_spruce_log": "Lasoco Xariga loo yaqaan 'Spruce Log'",
     "block.minecraft.stripped_spruce_wood": "Alwaax la gooyay",
-    "block.minecraft.stripped_warped_hyphae": "Hyphae Dagaal Difaacay\n",
-    "block.minecraft.stripped_warped_stem": "Stem Stpedpped War Stem\n",
+    "block.minecraft.stripped_warped_hyphae": "Hyphae Dagaal Difaacay
+",
+    "block.minecraft.stripped_warped_stem": "Stem Stpedpped War Stem
+",
     "block.minecraft.sugar_cane": "Sonkorta cawsduur",
     "block.minecraft.sunflower": "Gabbaldayaha",
     "block.minecraft.sweet_berry_bush": "Baadiyaha berry macaan",
@@ -693,31 +751,46 @@
     "block.minecraft.trapped_chest": "Dabin sanduuq",
     "block.minecraft.tripwire": "Tripwire",
     "block.minecraft.tripwire_hook": "Hook Tripwireka",
-    "block.minecraft.twisting_vines": "Wareejinta Vine\n",
-    "block.minecraft.twisting_vines_plant": "Wareejinta Wareegtada Geedaha\n",
+    "block.minecraft.twisting_vines": "Wareejinta Vine
+",
+    "block.minecraft.twisting_vines_plant": "Wareejinta Wareegtada Geedaha
+",
     "block.minecraft.vine": "Liana",
     "block.minecraft.void_air": "Hawo ka bax",
     "block.minecraft.wall_torch": "Nalka Darbiga",
-    "block.minecraft.warped_button": "Badhanka dagaalka\n",
-    "block.minecraft.warped_door": "Warped Door\n",
-    "block.minecraft.warped_fence": "Dayrka Dagaalka\n",
-    "block.minecraft.warped_fence_gate": "Albaabka Fure Albaabka\n",
+    "block.minecraft.warped_button": "Badhanka dagaalka
+",
+    "block.minecraft.warped_door": "Warped Door
+",
+    "block.minecraft.warped_fence": "Dayrka Dagaalka
+",
+    "block.minecraft.warped_fence_gate": "Albaabka Fure Albaabka
+",
     "block.minecraft.warped_fungus": "Fangaska Fangas",
     "block.minecraft.warped_hyphae": "Hyphae Dagaal",
     "block.minecraft.warped_nylium": "Dagaalkii Nylium",
-    "block.minecraft.warped_planks": "Diyaaradaha dagaalka\n",
-    "block.minecraft.warped_pressure_plate": "Cadaadiska Cadaadiska Dagaal\n",
-    "block.minecraft.warped_roots": "Xididdada Dagaallada\n",
-    "block.minecraft.warped_sign": "Saxeex Dagaal\n",
+    "block.minecraft.warped_planks": "Diyaaradaha dagaalka
+",
+    "block.minecraft.warped_pressure_plate": "Cadaadiska Cadaadiska Dagaal
+",
+    "block.minecraft.warped_roots": "Xididdada Dagaallada
+",
+    "block.minecraft.warped_sign": "Saxeex Dagaal
+",
     "block.minecraft.warped_slab": "Dagaalkii Slab",
-    "block.minecraft.warped_stairs": "Jaranjarooyinka Fudud\n",
+    "block.minecraft.warped_stairs": "Jaranjarooyinka Fudud
+",
     "block.minecraft.warped_stem": "Stem Steped",
-    "block.minecraft.warped_trapdoor": "Trapdoor Dagaal\n",
+    "block.minecraft.warped_trapdoor": "Trapdoor Dagaal
+",
     "block.minecraft.warped_wall_sign": "Dagaallamay calaamadda darbiga",
-    "block.minecraft.warped_wart_block": "Kala Soco Wart Block\n",
+    "block.minecraft.warped_wart_block": "Kala Soco Wart Block
+",
     "block.minecraft.water": "Biyaha",
-    "block.minecraft.weeping_vines": "Uruurinta Geedaha\n",
-    "block.minecraft.weeping_vines_plant": "Dhirta Vinging\n",
+    "block.minecraft.weeping_vines": "Uruurinta Geedaha
+",
+    "block.minecraft.weeping_vines_plant": "Dhirta Vinging
+",
     "block.minecraft.wet_sponge": "Isbonji qoyan",
     "block.minecraft.wheat": "Dalagyada qamadida",
     "block.minecraft.white_carpet": "Caddaan kaarbadka",
@@ -757,7 +830,8 @@
     "chat.link.confirmTrusted": "Ma rabtaa in aad la furo link this ama nuqul aad sabuurad?",
     "chat.link.open": "Ku fur biraawsarka",
     "chat.link.warning": "Marna links furan dadka in aadan ku kalsoon tahay!",
-    "chat.queue": "[+%s Khadadka sugaya]\n",
+    "chat.queue": "[+%s Khadadka sugaya]
+",
     "chat.square_brackets": "[%s]",
     "chat.type.admin": "[%s: %s]",
     "chat.type.advancement.challenge": "%s wuxuu dhammeeyaa tartanka %s",
@@ -781,7 +855,8 @@
     "color.minecraft.red": "Casaan",
     "command.context.here": "<--[HERE]",
     "command.context.parse_error": "%s xagaaga%s:%s",
-    "command.unknown.command": "Amarka aan la aqoon ama aan dhammaystirnayn, hoos ka fiiri khaladka\n",
+    "command.unknown.command": "Amarka aan la aqoon ama aan dhammaystirnayn, hoos ka fiiri khaladka
+",
     "commands.attribute.failed.modifier_already_present": "Modifier hore loo bandhigaa on eedeeyay for cidda",
     "commands.attribute.failed.no_attribute": "Ciddu%s ma laha sifo%s",
     "commands.attribute.failed.no_modifier": "Ku sifo%s dhismeedka%s ma laha wax beddel ah%s",
@@ -800,8 +875,10 @@
     "commands.drop.success.multiple_with_table": "Xayiraadaha %s oo ka dhacay miiska baakadka %s",
     "commands.drop.success.single": "Dhicid %s %s",
     "commands.list.nameAndId": "%s (%s)",
-    "commands.locatebiome.invalid": "Ma jiro biome leh nooca \"%s\"\n",
-    "commands.locatebiome.notFound": "Aanan helin biome nooca \"%s\" masaafo macquul ah\n",
+    "commands.locatebiome.invalid": "Ma jiro biome leh nooca "%s"
+",
+    "commands.locatebiome.notFound": "Aanan helin biome nooca "%s" masaafo macquul ah
+",
     "commands.reload.failure": "Dib u rakibida ayaa fashilantay; haynta xogta hore",
     "commands.reload.success": "Dib u soo celinta!",
     "commands.schedule.cleared.failure": "Ma jiraan jadwallo leh id %s",
@@ -818,8 +895,10 @@
     "commands.spectate.self": "Naftaada isma daawan kartid",
     "commands.spectate.success.started": "Bilaabay si loo daawado %s",
     "commands.spectate.success.stopped": "Mar dambe ma daawaneyso hay'ad",
-    "commands.summon.failed.uuid": "Awoodin in loogu yeeri karo hay'adda sababta oo ah UUIDs-du\n",
-    "commands.summon.invalidPosition": "Meel khaldan u yeerida\n",
+    "commands.summon.failed.uuid": "Awoodin in loogu yeeri karo hay'adda sababta oo ah UUIDs-du
+",
+    "commands.summon.invalidPosition": "Meel khaldan u yeerida
+",
     "commands.team.option.name.success": "Cusbooneysiiyay magaca kooxda %s",
     "connect.aborted": "Waa la diiday",
     "connect.authorizing": "Galitaanka...",
@@ -851,7 +930,7 @@
     "createWorld.customize.custom.center": "Xarunta Dhererka",
     "createWorld.customize.custom.confirm1": "Tani overwrite doonaa hadda",
     "createWorld.customize.custom.confirm2": "goobaha iyo in aan la hagaajin karo.",
-    "createWorld.customize.custom.confirmTitle": "\u062a\u062d\u0630\u064a\u0631!",
+    "createWorld.customize.custom.confirmTitle": "تحذير!",
     "createWorld.customize.custom.coordinateScale": "Isku duwidda Miisaanka",
     "createWorld.customize.custom.count": "Isku dayo Hiilweyne",
     "createWorld.customize.custom.defaults": "La bixin kari",
@@ -868,7 +947,7 @@
     "createWorld.customize.custom.mainNoiseScaleZ": "Main Miisaanka Buuq Z",
     "createWorld.customize.custom.maxHeight": "Max. Dhererka",
     "createWorld.customize.custom.minHeight": "Min. Dhererka",
-    "createWorld.customize.custom.next": "\u0635\u0641\u062d\u0629 \u0627\u0644\u0649 \u0627\u0644\u0627\u0645\u0627\u0645",
+    "createWorld.customize.custom.next": "صفحة الى الامام",
     "createWorld.customize.custom.page0": "Jawiga aasaasiga ah",
     "createWorld.customize.custom.page1": "Jawiga Ore",
     "createWorld.customize.custom.page2": "Jawiga bilow (khabiir uun kuwa Isticmaala.)",
@@ -884,24 +963,24 @@
     "createWorld.customize.custom.presets.title": "Customize Presets Adduunka",
     "createWorld.customize.custom.prev": "Boggii hore",
     "createWorld.customize.custom.randomize": "Abuuri",
-    "createWorld.customize.custom.riverSize": "\u062d\u062c\u0645 \u0627\u0644\u0646\u0647\u0631",
-    "createWorld.customize.custom.seaLevel": "\u0645\u0633\u062a\u0648\u0649 \u0627\u0644\u0628\u062d\u0631",
+    "createWorld.customize.custom.riverSize": "حجم النهر",
+    "createWorld.customize.custom.seaLevel": "مستوى البحر",
     "createWorld.customize.custom.size": "Size Hiilweyne",
     "createWorld.customize.custom.spread": "Faafidda Dhererka",
     "createWorld.customize.custom.stretchY": "Dhererka Kala",
     "createWorld.customize.custom.upperLimitScale": "Upper Yaree Miisaanka",
-    "createWorld.customize.custom.useCaves": "\u0627\u0644\u0643\u0647\u0648\u0641",
+    "createWorld.customize.custom.useCaves": "الكهوف",
     "createWorld.customize.custom.useDungeons": "Godad",
     "createWorld.customize.custom.useLavaLakes": "Harooyinka dhagax dab",
-    "createWorld.customize.custom.useLavaOceans": "\u0628\u062d\u0648\u0631 \u0627\u0644\u062d\u0645\u0645",
+    "createWorld.customize.custom.useLavaOceans": "بحور الحمم",
     "createWorld.customize.custom.useMansions": "Woodland Malaayiin",
     "createWorld.customize.custom.useMineShafts": "Aniga noocyo",
     "createWorld.customize.custom.useMonuments": "Ocean taxadiri",
     "createWorld.customize.custom.useOceanRuins": "Ruushka",
     "createWorld.customize.custom.useRavines": "Karimo",
     "createWorld.customize.custom.useStrongholds": "Dhufays",
-    "createWorld.customize.custom.useTemples": "\u0627\u0644\u0645\u0639\u0627\u0628\u062f",
-    "createWorld.customize.custom.useVillages": "\u0642\u0631\u064a\u0629",
+    "createWorld.customize.custom.useTemples": "المعابد",
+    "createWorld.customize.custom.useVillages": "قرية",
     "createWorld.customize.custom.useWaterLakes": "Harooyinka biyaha",
     "createWorld.customize.custom.waterLakeChance": "Failed gudubno biyaha",
     "createWorld.customize.flat.height": "Dherer",
@@ -926,13 +1005,17 @@
     "createWorld.customize.presets.share": "Ma dooneysaa inaad la wadaagto jadwalkaagii hore qof? Adeegso sanduuqa hoosta!",
     "createWorld.customize.presets.title": "Dooro horena a",
     "createWorld.preparing": "Diyaarinta abuuritaanka adduunka...",
-    "dataPack.title": "Xulo Baakadaha Xogta\n",
+    "dataPack.title": "Xulo Baakadaha Xogta
+",
     "dataPack.validation.back": "Dib u noqo",
-    "dataPack.validation.failed": "Xaqiijinta xirmada xogtu way fashilantay!\n",
-    "dataPack.validation.reset": "Dib-u-daar Ku-habboon\n",
+    "dataPack.validation.failed": "Xaqiijinta xirmada xogtu way fashilantay!
+",
+    "dataPack.validation.reset": "Dib-u-daar Ku-habboon
+",
     "dataPack.validation.working": "Xaqiijinta xirmooyinka xog ee la xulay...",
     "datapackFailure.safeMode": "Qaab nabdoon",
-    "datapackFailure.title": "Khaladaadka hada jira xirmooyin xog aruurinta ayaa ka hor istaagay adduunka inuu soo xeroodo.\nWaxaad isku dayi kartaa inaad ku shubto kaliya kaydka 'vanilla datapack' (\"xaalad nabadgelyo leh\") ama dib ugu noqo shaashadda cinwaanka oo aad gacanta ku hagaajiso.",
+    "datapackFailure.title": "Khaladaadka hada jira xirmooyin xog aruurinta ayaa ka hor istaagay adduunka inuu soo xeroodo.
+Waxaad isku dayi kartaa inaad ku shubto kaliya kaydka 'vanilla datapack' ("xaalad nabadgelyo leh") ama dib ugu noqo shaashadda cinwaanka oo aad gacanta ku hagaajiso.",
     "death.attack.badRespawnPoint.link": "Naqshadeynta Ciyaaraha ah",
     "death.attack.badRespawnPoint.message": "%1$s waxaa lagu dilay %2$s",
     "death.attack.dragonBreath.player": "%1$s ayaa lagu dubay neefsiga maskaxda oo ah %2$s",
@@ -940,7 +1023,8 @@
     "death.attack.fireworks.item": "%1$s ayaa ku qarxay ay sabab u tahay rashka ka %3$s by %2$s",
     "death.attack.fireworks.player": "%1$s waxay ku baxday dabagal markii ay dagaalayeen %2$s",
     "death.attack.flyIntoWall.player": "%1$s tamarta hidaha ee khibrad leh inta ay isku dayayso in ay baxsato %2$s",
-    "death.attack.magic.player": "% 1 $ s waxaa dilay sixir halka uu isku dayay inuu ka baxsado% 2 $ s\n",
+    "death.attack.magic.player": "% 1 $ s waxaa dilay sixir halka uu isku dayay inuu ka baxsado% 2 $ s
+",
     "death.attack.outOfWorld.player": "%1$s ma rabin in ay ku noolaadaan isla isku mid ah %2$s",
     "death.attack.sting": "%1$s ayaa loo jiiday dhimasho",
     "death.attack.sting.player": "%1$s waxaa ku dhacay %2$s",
@@ -948,14 +1032,21 @@
     "death.attack.sweetBerryBush.player": "%1$s waxaa lagu dhuftay dhimasho by baadiyaha berry macaan inta isku dayaya in ay baxsadaan %2$s",
     "death.attack.trident": "%1$s waxaa lagu qiyaasay %2$s",
     "death.attack.trident.item": "%1$s waxaa lagu rogay %2$s oo leh %3$s",
-    "death.attack.witherSkull": "% 1 $ s waxaa toogtay madaxa ka yimid% 2 $ s\n",
-    "death.fell.accident.other_climbable": "% 1 $ s ayaa dhacay intii ay fuulayeen\n",
+    "death.attack.witherSkull": "% 1 $ s waxaa toogtay madaxa ka yimid% 2 $ s
+",
+    "death.fell.accident.other_climbable": "% 1 $ s ayaa dhacay intii ay fuulayeen
+",
     "death.fell.accident.scaffolding": "%1$s qaab dhismeedka dumay",
-    "death.fell.accident.twisting_vines": "%1$s fell off some twisting vines\n",
-    "death.fell.accident.weeping_vines": "% 1 $ s ayaa ka dhacay qaar ka mid ah geedo canabyada ooyaya\n",
-    "deathScreen.spectate": "Dunida Spectate\n",
-    "deathScreen.title": "Waad dhimatay!\n",
-    "deathScreen.title.hardcore": "Ciyaarta Ka Dib!\n",
+    "death.fell.accident.twisting_vines": "%1$s fell off some twisting vines
+",
+    "death.fell.accident.weeping_vines": "% 1 $ s ayaa ka dhacay qaar ka mid ah geedo canabyada ooyaya
+",
+    "deathScreen.spectate": "Dunida Spectate
+",
+    "deathScreen.title": "Waad dhimatay!
+",
+    "deathScreen.title.hardcore": "Ciyaarta Ka Dib!
+",
     "deathScreen.titleScreen": "Shaashadda lahaanshaha",
     "debug.copy_location.message": "Goobta loo daabacay",
     "debug.crash.warning": "Dhibaatada %s...",
@@ -991,7 +1082,8 @@
     "disconnect.closed": "Xiriirku waa xiran yahay",
     "disconnect.disconnected": "Xiritaanka Server",
     "disconnect.endOfStream": "Dhammaadka socodka",
-    "disconnect.exceeded_packet_rate": "Waxaa loo Diiday xad dhaafka xaddiga xirmooyinka\n",
+    "disconnect.exceeded_packet_rate": "Waxaa loo Diiday xad dhaafka xaddiga xirmooyinka
+",
     "disconnect.genericReason": "%s",
     "disconnect.kicked": "Laga soo tuuray ciyaarta",
     "disconnect.loginFailed": "Ku guul daraysatay inaad gasho",
@@ -1020,7 +1112,8 @@
     "enchantment.minecraft.multishot": "Badan",
     "enchantment.minecraft.piercing": "Dillaac",
     "enchantment.minecraft.quick_charge": "Lacag degdeg ah",
-    "enchantment.minecraft.soul_speed": "Xawaaraha Soul\n",
+    "enchantment.minecraft.soul_speed": "Xawaaraha Soul
+",
     "entity.minecraft.area_effect_cloud": "Xayawaanka Saameynta Aagga",
     "entity.minecraft.bee": "Shinni",
     "entity.minecraft.cow": "Sac",
@@ -1042,15 +1135,18 @@
     "entity.minecraft.player": "Ciyaaryahan",
     "entity.minecraft.shulker": "Shulker",
     "entity.minecraft.strider": "Strider",
-    "entity.minecraft.tropical_fish.type.sunstreak": "Qorraxda\n",
+    "entity.minecraft.tropical_fish.type.sunstreak": "Qorraxda
+",
     "entity.minecraft.villager.mason": "Dhageysiga",
     "entity.minecraft.villager.toolsmith": "Gawaarida",
     "entity.minecraft.villager.weaponsmith": "Hubka",
     "entity.minecraft.wither": "Wither",
     "entity.minecraft.zoglin": "Zoglin",
-    "entity.minecraft.zombified_piglin": "Zombified Piglin\n",
+    "entity.minecraft.zombified_piglin": "Zombified Piglin
+",
     "event.minecraft.raid": "Weerarka",
-    "event.minecraft.raid.raiders_remaining": "Joogteyaasha Joogtada ah:%s\n",
+    "event.minecraft.raid.raiders_remaining": "Joogteyaasha Joogtada ah:%s
+",
     "filled_map.id": "Aqoonsi %s",
     "gameMode.adventure": "Habka ugu wanaagsan",
     "gameMode.changed": "Habka cayaarahaaga ayaa loo cusbooneysiiyey %s",
@@ -1058,54 +1154,86 @@
     "gameMode.hardcore": "Habka Hardcore!",
     "gameMode.spectator": "Dhacaday Mode",
     "gameMode.survival": "Badbaadada Mode",
-    "gamerule.announceAdvancements": "Ku dhawaaq horumarka\n",
+    "gamerule.announceAdvancements": "Ku dhawaaq horumarka
+",
     "gamerule.category.chat": "Kala hadal",
     "gamerule.category.drops": "Dhibco",
     "gamerule.category.misc": "Kala duduwan",
     "gamerule.category.player": "Ciyaaryahan",
     "gamerule.category.spawning": "Xaraashka",
-    "gamerule.category.updates": "Cusbooneysiinta Caalamka\n",
-    "gamerule.commandBlockOutput": "Wax soosaarka taliska baahinta\n",
-    "gamerule.disableElytraMovementCheck": "Disable hubinta dhaqdhaqaaqa elytra\n",
-    "gamerule.disableRaids": "Disable weerarada\n",
-    "gamerule.doDaylightCycle": "Waqtiga hormarka ee maalinta\n",
-    "gamerule.doEntityDrops": "Tuur qalabka xubinta\n",
+    "gamerule.category.updates": "Cusbooneysiinta Caalamka
+",
+    "gamerule.commandBlockOutput": "Wax soosaarka taliska baahinta
+",
+    "gamerule.disableElytraMovementCheck": "Disable hubinta dhaqdhaqaaqa elytra
+",
+    "gamerule.disableRaids": "Disable weerarada
+",
+    "gamerule.doDaylightCycle": "Waqtiga hormarka ee maalinta
+",
+    "gamerule.doEntityDrops": "Tuur qalabka xubinta
+",
     "gamerule.doEntityDrops.description": "Xakameyntu waxay hoos uga dhacdaa miinada-qodida (oo ay ku jiraan alaabada), alaabada sheyga, doonyaha, iwm.",
-    "gamerule.doFireTick": "Dab cusbooneysiin\n",
-    "gamerule.doImmediateRespawn": "Isla markiiba dib ayaa loo hagaajiyaa\n",
+    "gamerule.doFireTick": "Dab cusbooneysiin
+",
+    "gamerule.doImmediateRespawn": "Isla markiiba dib ayaa loo hagaajiyaa
+",
     "gamerule.doInsomnia": "Wajiyada 'spawn'",
     "gamerule.doLimitedCrafting": "Ubaahan cunto karis",
-    "gamerule.doLimitedCrafting.description": "Haddii karti loo yeesho, ciyaartooydu waxay awood u yeelan doonaan inay farsameeyaan kaliya cuntada la furo\n",
+    "gamerule.doLimitedCrafting.description": "Haddii karti loo yeesho, ciyaartooydu waxay awood u yeelan doonaan inay farsameeyaan kaliya cuntada la furo
+",
     "gamerule.doMobLoot": "Tuur boobka dadka",
     "gamerule.doMobLoot.description": "Waxay kaantarooshaa hoos udhaca ilaha ay ka midka yihiin qulqulatooyinka",
     "gamerule.doMobSpawning": "Feejignaanta",
-    "gamerule.doMobSpawning.description": "Hay'adaha qaar waxay lahaan karaan sharciyo gaar ah\n",
-    "gamerule.doPatrolSpawning": "Gawaarida roondada ee loo yaqaan 'Spawn pillager patrols'\n",
+    "gamerule.doMobSpawning.description": "Hay'adaha qaar waxay lahaan karaan sharciyo gaar ah
+",
+    "gamerule.doPatrolSpawning": "Gawaarida roondada ee loo yaqaan 'Spawn pillager patrols'
+",
     "gamerule.doTileDrops": "Tuur",
     "gamerule.doTileDrops.description": "Wuxuu xakameeyaa hoos u dhaca kheyraadka ka soo baxa meelaha ay ka midka yihiin qibradaha",
     "gamerule.doTraderSpawning": "Ganacsade ku wareegaya ganacsatada",
-    "gamerule.doWeatherCycle": "Cusboonaysiinta cimilada\n",
-    "gamerule.drowningDamage": "Wax ka qabashada burburka\n",
-    "gamerule.fallDamage": "Waxyeelada deyrta\n",
-    "gamerule.fireDamage": "Waxyeellada dabka ka gaadhay\n",
-    "gamerule.forgiveDeadPlayers": "Cafiyo ciyaartoygii dhintay\n",
-    "gamerule.forgiveDeadPlayers.description": "Falalka dhexdhexaadnimada ah ee xanaaqsan waxay joojinayaan xanaaqa markii la bartilmaameedsaday ciyaaryahanka u dhow.\n",
-    "gamerule.keepInventory": "Kaydinta sii hay geerida kadib\n",
-    "gamerule.logAdminCommands": "Amarada maareynta warbaahinta\n",
-    "gamerule.maxCommandChainLength": "Xadka cabirka taliska\n",
-    "gamerule.maxCommandChainLength.description": "Waxay adeegsanaysaa amarada silsiladaha iyo shaqooyinka\n",
-    "gamerule.maxEntityCramming": "Jid xaddidan oo xaddidan\n",
-    "gamerule.mobGriefing": "U oggolow ficillo dumineed oo wax dumin kara\n",
-    "gamerule.naturalRegeneration": "Dib u soo nooleeynta caafimaadka\n",
-    "gamerule.randomTickSpeed": "Heerka xawaaraha calaamadaha\n",
-    "gamerule.reducedDebugInfo": "Yaree macluumaadka dib-u-bixinta\n",
-    "gamerule.reducedDebugInfo.description": "Waxay xaddideysaa waxa ku jira shaashadda naqshadeynta\n",
+    "gamerule.doWeatherCycle": "Cusboonaysiinta cimilada
+",
+    "gamerule.drowningDamage": "Wax ka qabashada burburka
+",
+    "gamerule.fallDamage": "Waxyeelada deyrta
+",
+    "gamerule.fireDamage": "Waxyeellada dabka ka gaadhay
+",
+    "gamerule.forgiveDeadPlayers": "Cafiyo ciyaartoygii dhintay
+",
+    "gamerule.forgiveDeadPlayers.description": "Falalka dhexdhexaadnimada ah ee xanaaqsan waxay joojinayaan xanaaqa markii la bartilmaameedsaday ciyaaryahanka u dhow.
+",
+    "gamerule.keepInventory": "Kaydinta sii hay geerida kadib
+",
+    "gamerule.logAdminCommands": "Amarada maareynta warbaahinta
+",
+    "gamerule.maxCommandChainLength": "Xadka cabirka taliska
+",
+    "gamerule.maxCommandChainLength.description": "Waxay adeegsanaysaa amarada silsiladaha iyo shaqooyinka
+",
+    "gamerule.maxEntityCramming": "Jid xaddidan oo xaddidan
+",
+    "gamerule.mobGriefing": "U oggolow ficillo dumineed oo wax dumin kara
+",
+    "gamerule.naturalRegeneration": "Dib u soo nooleeynta caafimaadka
+",
+    "gamerule.randomTickSpeed": "Heerka xawaaraha calaamadaha
+",
+    "gamerule.reducedDebugInfo": "Yaree macluumaadka dib-u-bixinta
+",
+    "gamerule.reducedDebugInfo.description": "Waxay xaddideysaa waxa ku jira shaashadda naqshadeynta
+",
     "gamerule.sendCommandFeedback": "U dir jawaabcelinta taliska",
-    "gamerule.showDeathMessages": "Muuji farriimaha dhimashada\n",
+    "gamerule.showDeathMessages": "Muuji farriimaha dhimashada
+",
     "gamerule.spawnRadius": "Dib-u-hagaajin goobta radius",
-    "gamerule.spectatorsGenerateChunks": "U oggolow daawadayaashu inay abuuraan dhul-beereed\n",
-    "gamerule.universalAnger": "Cadho caalami ah\n",
-    "gamerule.universalAnger.description": "Falalka dhexdhexaadnimada ah ee cadhaysan waxay weeraraan ciyaaryahan kasta oo agtaada ah, kaliya maahan ciyaartii ka careysiisay. Si wanaagsan ayey u shaqeysaa haddii la is cafiyo.\n",
+    "gamerule.spectatorsGenerateChunks": "U oggolow daawadayaashu inay abuuraan dhul-beereed
+",
+    "gamerule.universalAnger": "Cadho caalami ah
+",
+    "gamerule.universalAnger.description": "Falalka dhexdhexaadnimada ah ee cadhaysan waxay weeraraan ciyaaryahan kasta oo agtaada ah, kaliya maahan ciyaartii ka careysiisay. Si wanaagsan ayey u shaqeysaa haddii la is cafiyo.
+",
     "generator.amplified": "XOOJIN",
     "generator.amplified.info": "Xusuusin: Kaliya madadaalo! Wuxuu ubaahanyahay kumbuyuutar.",
     "generator.custom": "Adeegsadaha",
@@ -1114,15 +1242,16 @@
     "generator.default": "Fulin la'aan",
     "generator.flat": "Guri sare",
     "generator.large_biomes": "Weyn bulsho dabiici ah oo dabiici ah oo ka soo jeeda beeraha iyo fauna ku dhex nool degaan weyn",
-    "generator.single_biome_caves": "\u0627\u0644\u0643\u0647\u0648\u0641",
+    "generator.single_biome_caves": "الكهوف",
     "generator.single_biome_surface": "Single Biome",
     "gui.all": "Dhammaan",
     "gui.back": "Dib",
     "gui.cancel": "Jooji",
     "gui.done": "soo gabagabeeyay",
     "gui.down": "Hoos u",
-    "gui.entity_tooltip.type": "Nooca:%s\n",
-    "gui.narrate.button": "%s b\u0259\u0256\u0259m-",
+    "gui.entity_tooltip.type": "Nooca:%s
+",
+    "gui.narrate.button": "%s bəɖəm-",
     "gui.narrate.editBox": "%s bedel sanduuqa: %s",
     "gui.narrate.slider": "%s xawaaraha",
     "gui.no": "Maya",
@@ -1131,11 +1260,16 @@
     "gui.proceed": "Soco",
     "gui.recipebook.moreRecipes": "Xuquuqda midigta riix si aad u hesho dheeraad ah",
     "gui.recipebook.search_hint": "Raadi...",
-    "gui.recipebook.toggleRecipes.all": "Muujinaya Dhamaan\n",
-    "gui.recipebook.toggleRecipes.blastable": "Muujinta Burburinta\n",
-    "gui.recipebook.toggleRecipes.craftable": "Muujinta Khiyaanada\n",
-    "gui.recipebook.toggleRecipes.smeltable": "Muujinta Wax Qarxin kara\n",
-    "gui.recipebook.toggleRecipes.smokable": "Muujinta Sigaar-cabista\n",
+    "gui.recipebook.toggleRecipes.all": "Muujinaya Dhamaan
+",
+    "gui.recipebook.toggleRecipes.blastable": "Muujinta Burburinta
+",
+    "gui.recipebook.toggleRecipes.craftable": "Muujinta Khiyaanada
+",
+    "gui.recipebook.toggleRecipes.smeltable": "Muujinta Wax Qarxin kara
+",
+    "gui.recipebook.toggleRecipes.smokable": "Muujinta Sigaar-cabista
+",
     "gui.socialInteractions.blocking_hint": "Maamul koontada Microsoft",
     "gui.socialInteractions.empty_blocked": "Majiraan ciyaartooy xannibmay oo sheekaysanaya",
     "gui.socialInteractions.empty_hidden": "Ma jiro ciyaartoy ku qarsoon sheekada",
@@ -1159,11 +1293,14 @@
     "gui.socialInteractions.tooltip.hide": "Ka qari fariimaha wada sheekaysiga",
     "gui.socialInteractions.tooltip.show": "Ku muuji farriimaha wada sheekaysiga",
     "gui.toMenu": "Dib ugu noqo Liiska Serverka",
-    "gui.toTitle": "Ku noqo shaashadda Cinwaanka\n",
+    "gui.toTitle": "Ku noqo shaashadda Cinwaanka
+",
     "gui.up": "Illaa",
     "gui.yes": "Haa",
-    "inventory.hotbarInfo": "Keydi hotbar leh% 1 $ s +% 2 $ s\n",
-    "inventory.hotbarSaved": "Shayga sheyga kulul waa la keydiyey (soo celi% 1 $ s +% 2 $ s)\n",
+    "inventory.hotbarInfo": "Keydi hotbar leh% 1 $ s +% 2 $ s
+",
+    "inventory.hotbarSaved": "Shayga sheyga kulul waa la keydiyey (soo celi% 1 $ s +% 2 $ s)
+",
     "item.minecraft.apple": "Tufaax",
     "item.minecraft.bat_spawn_egg": "Bisad ku dhalatay ukunta",
     "item.minecraft.bee_spawn_egg": "Shinni Spawn Ukunta",
@@ -1194,8 +1331,8 @@
     "item.minecraft.creeper_spawn_egg": "Cadaadiska cagaaran ukunta spawn",
     "item.minecraft.crossbow": "Isbaaro",
     "item.minecraft.cyan_dye": "Cyran dheeh dheeh",
-    "item.minecraft.debug_stick.select": "la xushay \"%s\" (%s)",
-    "item.minecraft.debug_stick.update": "\"%s\": %s",
+    "item.minecraft.debug_stick.select": "la xushay "%s" (%s)",
+    "item.minecraft.debug_stick.update": ""%s": %s",
     "item.minecraft.diamond": "Dheeman",
     "item.minecraft.diamond_boots": "Kabaha dheeman",
     "item.minecraft.diamond_chestplate": "Dheemanka dheeman",
@@ -1241,7 +1378,8 @@
     "item.minecraft.golden_pickaxe": "Dahab dahab ah",
     "item.minecraft.green_dye": "Dheeh cagaaran",
     "item.minecraft.gunpowder": "Gunpowyder",
-    "item.minecraft.hoglin_spawn_egg": "Hoglin Spawn Egg\n",
+    "item.minecraft.hoglin_spawn_egg": "Hoglin Spawn Egg
+",
     "item.minecraft.honey_bottle": "Dhalada malabka",
     "item.minecraft.honeycomb": "Malab",
     "item.minecraft.iron_boots": "Kabaha birta",
@@ -1251,7 +1389,8 @@
     "item.minecraft.light_blue_dye": "Dhogorta dhalaalaya buluug",
     "item.minecraft.light_gray_dye": "Dheeh casaan ah",
     "item.minecraft.lime_dye": "Dheeh dheeh",
-    "item.minecraft.lodestone_compass": "Lodestone Compass\n",
+    "item.minecraft.lodestone_compass": "Lodestone Compass
+",
     "item.minecraft.magenta_dye": "Magenta Dheef",
     "item.minecraft.melon_seeds": "Abuurka qaraha",
     "item.minecraft.mojang_banner_pattern": "Qaabka xayeysiiska",
@@ -1264,30 +1403,44 @@
     "item.minecraft.music_disc_far.desc": "C418 - far",
     "item.minecraft.music_disc_mall.desc": "C418 - mall",
     "item.minecraft.music_disc_mellohi.desc": "C418 - mellohi",
-    "item.minecraft.music_disc_pigstep.desc": "Lena Raine - Pigstep\n",
+    "item.minecraft.music_disc_pigstep.desc": "Lena Raine - Pigstep
+",
     "item.minecraft.music_disc_stal.desc": "C418 - stal",
     "item.minecraft.music_disc_strad.desc": "C418 - strad",
     "item.minecraft.music_disc_wait.desc": "C418 - wait",
     "item.minecraft.music_disc_ward.desc": "C418 - ward",
-    "item.minecraft.netherite_axe": "Axmaarada Ax\n",
-    "item.minecraft.netherite_boots": "Boorsooyinka Netherite\n",
-    "item.minecraft.netherite_chestplate": "Chestplate loo yaqaan 'Netherite Chestplate'\n",
-    "item.minecraft.netherite_helmet": "Netherite Ingot\n",
-    "item.minecraft.netherite_hoe": "Netherite Hoe\n",
-    "item.minecraft.netherite_ingot": "Netherite Ingot\n",
-    "item.minecraft.netherite_leggings": "Legitings Netherite\n",
-    "item.minecraft.netherite_pickaxe": "Netherite Pickaxe\n",
-    "item.minecraft.netherite_scrap": "Xadhiga Netherite\n",
-    "item.minecraft.netherite_shovel": "Shoobaalka Netherite\n",
-    "item.minecraft.netherite_sword": "Seefta Netherite\n",
+    "item.minecraft.netherite_axe": "Axmaarada Ax
+",
+    "item.minecraft.netherite_boots": "Boorsooyinka Netherite
+",
+    "item.minecraft.netherite_chestplate": "Chestplate loo yaqaan 'Netherite Chestplate'
+",
+    "item.minecraft.netherite_helmet": "Netherite Ingot
+",
+    "item.minecraft.netherite_hoe": "Netherite Hoe
+",
+    "item.minecraft.netherite_ingot": "Netherite Ingot
+",
+    "item.minecraft.netherite_leggings": "Legitings Netherite
+",
+    "item.minecraft.netherite_pickaxe": "Netherite Pickaxe
+",
+    "item.minecraft.netherite_scrap": "Xadhiga Netherite
+",
+    "item.minecraft.netherite_shovel": "Shoobaalka Netherite
+",
+    "item.minecraft.netherite_sword": "Seefta Netherite
+",
     "item.minecraft.orange_dye": "Dheeh oranji",
     "item.minecraft.painting": "Rinjiyeyn",
     "item.minecraft.panda_spawn_egg": "Panda spawn ukunta",
     "item.minecraft.paper": "Waraaq",
     "item.minecraft.piglin_banner_pattern": "Qaabka xayeysiiska",
     "item.minecraft.piglin_banner_pattern.desc": "Cunto",
-    "item.minecraft.piglin_brute_spawn_egg": "Piglin Brute Spawn Egg\n",
-    "item.minecraft.piglin_spawn_egg": "Piglin Spawn Egg\n",
+    "item.minecraft.piglin_brute_spawn_egg": "Piglin Brute Spawn Egg
+",
+    "item.minecraft.piglin_spawn_egg": "Piglin Spawn Egg
+",
     "item.minecraft.pillager_spawn_egg": "Pillager kalluunka ukun",
     "item.minecraft.pink_dye": "Dheeh casaan",
     "item.minecraft.potato": "Baradho",
@@ -1306,14 +1459,16 @@
     "item.minecraft.stone_pickaxe": "Dhagax ka qaatay",
     "item.minecraft.stone_shovel": "Majarafad dhagax ah",
     "item.minecraft.stone_sword": "Seefta dhagax",
-    "item.minecraft.strider_spawn_egg": "Strider Spawn Egg\n",
+    "item.minecraft.strider_spawn_egg": "Strider Spawn Egg
+",
     "item.minecraft.string": "Xadhig",
     "item.minecraft.sugar": "Sonkorta",
     "item.minecraft.suspicious_stew": "Feejignaan shaki",
     "item.minecraft.sweet_berries": "Berry macaan",
     "item.minecraft.tropical_fish": "Kalluunka kuleylka ah",
     "item.minecraft.villager_spawn_egg": "Pillager kalluunka ukun",
-    "item.minecraft.warped_fungus_on_a_stick": "Furuut dillaacay on Stick ah\n",
+    "item.minecraft.warped_fungus_on_a_stick": "Furuut dillaacay on Stick ah
+",
     "item.minecraft.wheat_seeds": "Badbaadiyaha",
     "item.minecraft.white_dye": "Dheeha cad",
     "item.minecraft.wooden_axe": "Alwaax alwaax ah",
@@ -1322,21 +1477,33 @@
     "item.minecraft.wooden_shovel": "Majarafad alwaax ah",
     "item.minecraft.wooden_sword": "Seef alwaax ah",
     "item.minecraft.yellow_dye": "Dheeha jaalaha ah",
-    "item.minecraft.zoglin_spawn_egg": "Zoglin Spawn Egg\n",
-    "item.minecraft.zombified_piglin_spawn_egg": "Zombified Piglin Spawn Egg\n",
-    "item.modifiers.chest": "Markaad Joogto:\n",
-    "item.modifiers.feet": "Markaad caga dhiganeyso:\n",
-    "item.modifiers.head": "Markaad Madaxa Tahay:\n",
+    "item.minecraft.zoglin_spawn_egg": "Zoglin Spawn Egg
+",
+    "item.minecraft.zombified_piglin_spawn_egg": "Zombified Piglin Spawn Egg
+",
+    "item.modifiers.chest": "Markaad Joogto:
+",
+    "item.modifiers.feet": "Markaad caga dhiganeyso:
+",
+    "item.modifiers.head": "Markaad Madaxa Tahay:
+",
     "item.modifiers.legs": "Markay Lugaha Tahay:",
-    "item.modifiers.mainhand": "Markaad ku jirto gacanta ugu muhiimsan:\n",
-    "item.modifiers.offhand": "Markaad Gacanta Hayso:\n",
-    "itemGroup.hotbar": "Hotbars keysan\n",
+    "item.modifiers.mainhand": "Markaad ku jirto gacanta ugu muhiimsan:
+",
+    "item.modifiers.offhand": "Markaad Gacanta Hayso:
+",
+    "itemGroup.hotbar": "Hotbars keysan
+",
     "jigsaw_block.final_state": "U rogaa:",
-    "jigsaw_block.generate": "Abuur\n",
-    "jigsaw_block.joint.aligned": "Waafaqay\n",
+    "jigsaw_block.generate": "Abuur
+",
+    "jigsaw_block.joint.aligned": "Waafaqay
+",
     "jigsaw_block.joint.rollable": "Leexan karo",
-    "jigsaw_block.joint_label": "Nooca Wadajirka ah:\n",
-    "jigsaw_block.keep_jigsaws": "Ku hay Jigsaws\n",
+    "jigsaw_block.joint_label": "Nooca Wadajirka ah:
+",
+    "jigsaw_block.keep_jigsaws": "Ku hay Jigsaws
+",
     "jigsaw_block.levels": "Heer: %s",
     "jigsaw_block.name": "Magaca:",
     "jigsaw_block.pool": "Pool Target:",
@@ -1368,7 +1535,7 @@
     "key.inventory": "Furan / Xir liiska",
     "key.jump": "Boodin",
     "key.keyboard.apostrophe": "'",
-    "key.keyboard.backslash": "\\",
+    "key.keyboard.backslash": "\",
     "key.keyboard.backspace": "Dib u noqoshada",
     "key.keyboard.caps.lock": "Kursiga xiran",
     "key.keyboard.comma": ",",
@@ -1453,7 +1620,8 @@
     "key.keyboard.world.1": "Adduun 1",
     "key.keyboard.world.2": "Adduun 2",
     "key.left": "Cadaab Left",
-    "key.loadToolbarActivator": "Lobar Hotbar Activator\n",
+    "key.loadToolbarActivator": "Lobar Hotbar Activator
+",
     "key.mouse": "Button %1$s",
     "key.mouse.left": "Laydhka bidix",
     "key.mouse.middle": "Badhanka dhexe",
@@ -1461,14 +1629,16 @@
     "key.pickItem": "Soo qaado Block",
     "key.playerlist": "Liiska Ciyaartoyda",
     "key.right": "Cadaab Right",
-    "key.saveToolbarActivator": "Badbaadi firfircoonaanta Hotbar\n",
+    "key.saveToolbarActivator": "Badbaadi firfircoonaanta Hotbar
+",
     "key.screenshot": "Qaado Screenshot",
     "key.smoothCamera": "Camera filimada Toggle",
     "key.sneak": "Dhuumaaleysi",
     "key.socialInteractions": "Isdhexgalka Bulshada",
     "key.spectatorOutlines": "Ciyaartoyda muujiyo (Daawadayaasha)",
     "key.sprint": "Qaran",
-    "key.swapOffhand": "Shayga iskugu beddela\n",
+    "key.swapOffhand": "Shayga iskugu beddela
+",
     "key.togglePerspective": "Toggle Aragtidooda",
     "key.use": "Isticmaal Item/Place Block",
     "lanServer.otherPlayers": "Dejinta Ciyaartoy kale",
@@ -1489,7 +1659,8 @@
     "menu.multiplayer": "Multiplayer",
     "menu.online": "Minecraft Realms",
     "menu.options": "Fursadaha...",
-    "menu.paused": "Ciyaarta waa la joojiyay\n",
+    "menu.paused": "Ciyaarta waa la joojiyay
+",
     "menu.playdemo": "Play Demo Adduunka",
     "menu.preparingSpawn": "Diyaarinta aagga isbuunta %s%%",
     "menu.quit": "Tago kulanka",
@@ -1513,13 +1684,18 @@
     "merchant.level.5": "Sayid",
     "merchant.next_level": "Heerka xiga iibiyaha",
     "merchant.trades": "Ganacsiyada",
-    "mount.onboard": "Riix% 1 $ s si ay uga gudubto\n",
+    "mount.onboard": "Riix% 1 $ s si ay uga gudubto
+",
     "multiplayer.disconnect.authservers_down": "Xoghayayaasha aqoonsiga ayaa hoos u dhacay. Fadlan iskuday mar danbe, ka xumow!",
     "multiplayer.disconnect.banned": "Waxaa lagaa mamnuucay adeeggan",
-    "multiplayer.disconnect.banned.expiration": "\nMamnuuciddaada waxaa laga saarayaa %s",
-    "multiplayer.disconnect.banned.reason": "Waxaa lagaa mamnuucay adeeggan.\nSababta: %s",
-    "multiplayer.disconnect.banned_ip.expiration": "\nMamnuuciddaada waxaa laga saarayaa %s",
-    "multiplayer.disconnect.banned_ip.reason": "Cinwaankaaga IP ayaa laga mamnuucay adeeggan.\nSababta: %s",
+    "multiplayer.disconnect.banned.expiration": "
+Mamnuuciddaada waxaa laga saarayaa %s",
+    "multiplayer.disconnect.banned.reason": "Waxaa lagaa mamnuucay adeeggan.
+Sababta: %s",
+    "multiplayer.disconnect.banned_ip.expiration": "
+Mamnuuciddaada waxaa laga saarayaa %s",
+    "multiplayer.disconnect.banned_ip.reason": "Cinwaankaaga IP ayaa laga mamnuucay adeeggan.
+Sababta: %s",
     "multiplayer.disconnect.duplicate_login": "Waxaad ka soo gashay meel kale",
     "multiplayer.disconnect.flying": "Diyaar ma ahan mid u furan adeeggan",
     "multiplayer.disconnect.generic": "Ka furid",
@@ -1531,7 +1707,10 @@
     "multiplayer.disconnect.invalid_vehicle_movement": "Gawaarida gawaarida aan sharciga aheyn ayaa la helay",
     "multiplayer.disconnect.ip_banned": "Waxaad IP-ka ka joojisay adeeggan",
     "multiplayer.disconnect.kicked": "Isticmaalaya hawlwadeen",
-    "multiplayer.disconnect.missing_tags": "Calaamadaha aan dhammaystirnayn ee calaamadaha laga helay server-ka.\nFadlan la xiriir hawlwadeenka adeegaha.\n\n",
+    "multiplayer.disconnect.missing_tags": "Calaamadaha aan dhammaystirnayn ee calaamadaha laga helay server-ka.
+Fadlan la xiriir hawlwadeenka adeegaha.
+
+",
     "multiplayer.disconnect.name_taken": "Magaca hore ayaa loo qaaday",
     "multiplayer.disconnect.not_whitelisted": "Adigu ma aha mid ku qoran liistadaan!",
     "multiplayer.disconnect.outdated_client": "Macaamil aan is qaban karin! Fadlan isticmaal%s",
@@ -1541,7 +1720,8 @@
     "multiplayer.disconnect.slow_login": "Aad ayay u dheerayd in la galo",
     "multiplayer.disconnect.unexpected_query_response": "Macmiilka aan macquul ahayn ee macmiilka",
     "multiplayer.disconnect.unverified_username": "Ku guuldareysatay in la xaqiijiyo isticmaale-magaca!",
-    "multiplayer.downloadingStats": "Soocelinta tirakoobka ...\n",
+    "multiplayer.downloadingStats": "Soocelinta tirakoobka ...
+",
     "multiplayer.downloadingTerrain": "Goob jadiid ah...",
     "multiplayer.message_not_delivered": "Ma gaarsiin karo farriinta sheekaysiga, hubso diiwaanka server-ka:%s",
     "multiplayer.player.joined": "%s biiray ciyaarta",
@@ -1568,7 +1748,8 @@
     "multiplayer.title": "Cayaaraha kubada cagta",
     "multiplayerWarning.check": "Mar labaad ha tusin",
     "multiplayerWarning.header": "Uga dig: Saddexaad-Party Online Play",
-    "multiplayerWarning.message": "Digniin: Ciyaarta khadka tooska ah waxaa bixiya adeegayaasha qeybta saddexaad oo aan lahayn, maamulin, ama kormeerin Mojang Studios ama Microsoft. Inta lagu jiro ciyaarta khadka tooska ah, waxaa laga yaabaa inaad la kulanto farriimaha sheekaysiga aan la diyaarinin ama noocyada kale ee isticmaale-ka-kooban ee laga yaabo inaysan ku habboonayn qof walba.\n",
+    "multiplayerWarning.message": "Digniin: Ciyaarta khadka tooska ah waxaa bixiya adeegayaasha qeybta saddexaad oo aan lahayn, maamulin, ama kormeerin Mojang Studios ama Microsoft. Inta lagu jiro ciyaarta khadka tooska ah, waxaa laga yaabaa inaad la kulanto farriimaha sheekaysiga aan la diyaarinin ama noocyada kale ee isticmaale-ka-kooban ee laga yaabo inaysan ku habboonayn qof walba.
+",
     "narration.suggestion": "Soojeedinta la soo xulay %s ee %s:%s",
     "narration.suggestion.tooltip": "Soojeedinta la soo xulay %s ee %s: %s (%s)",
     "narrator.button.accessibility": "Helitaanka",
@@ -1622,15 +1803,19 @@
     "options.biomeBlendRadius.7": "7x7 (Sare)",
     "options.biomeBlendRadius.9": "9x9 (Aad u sareeya)",
     "options.chat.color": "Midabada",
-    "options.chat.delay": "Daahitaan Wada Hadal ah:%s sekan\n",
-    "options.chat.delay_none": "Daahitaan Wada Hadal ah: Midna ma jiro\n",
+    "options.chat.delay": "Daahitaan Wada Hadal ah:%s sekan
+",
+    "options.chat.delay_none": "Daahitaan Wada Hadal ah: Midna ma jiro
+",
     "options.chat.height.focused": "Diiradda sare",
     "options.chat.height.unfocused": "Heerka aan fiicnayn",
-    "options.chat.line_spacing": "Khadka Tooska\n",
+    "options.chat.line_spacing": "Khadka Tooska
+",
     "options.chat.links": "Xiriirinta webka",
     "options.chat.links.prompt": "Bixinta Xiriirrada",
     "options.chat.opacity": "Kula sheekaysiga qoraalka",
-    "options.chat.scale": "Cabbirka qoraalka Wada Hadalka\n",
+    "options.chat.scale": "Cabbirka qoraalka Wada Hadalka
+",
     "options.chat.title": "Goobaha lagu sheekeysto...",
     "options.chat.visibility": "Kala hadal",
     "options.chat.visibility.full": "Muujiyey",
@@ -1649,7 +1834,8 @@
     "options.difficulty.normal": "Caadiga ah",
     "options.difficulty.peaceful": "Tabiyo",
     "options.discrete_mouse_scroll": "Gaaritaanka Isku Duubka",
-    "options.entityDistanceScaling": "Fogaanshaha Hay'ada\n",
+    "options.entityDistanceScaling": "Fogaanshaha Hay'ada
+",
     "options.entityShadows": "Meelaha hoosta ku yaal",
     "options.forceUnicodeFont": "Force koodh caalamiga Font",
     "options.fov": "Muuqaalka Aragga",
@@ -1657,7 +1843,8 @@
     "options.fov.min": "Caadiga ah",
     "options.fovEffectScale": "Saamaynta FOV",
     "options.fovEffectScale.off": "Ka bax",
-    "options.fovEffectScale.tooltip": "Waxay maamushaa inta duulista aragtida ah ay ku beddeli karto xawaaraha.\n",
+    "options.fovEffectScale.tooltip": "Waxay maamushaa inta duulista aragtida ah ay ku beddeli karto xawaaraha.
+",
     "options.framerate": "%s fps",
     "options.framerateLimit": "Max Framerate",
     "options.framerateLimit.max": "Unlimited",
@@ -1670,32 +1857,45 @@
     "options.gamma.min": "Niyadda",
     "options.generic_value": "%s: %s",
     "options.graphics": "Sawiro",
-    "options.graphics.fabulous": "Cajiib!\n",
-    "options.graphics.fabulous.tooltip": "Muuqaalka sawirada%s wuxuu isticmaalaa daahyada shaashadda sawirka cimilada, daruuraha, iyo walxaha ka dambeeya dhismooyinka translucent-ka iyo biyaha.\nTani waxay si xun u saameyn kartaa waxqabadka qalabka aaladda la qaadan karo iyo soo bandhigida 4K.\n",
+    "options.graphics.fabulous": "Cajiib!
+",
+    "options.graphics.fabulous.tooltip": "Muuqaalka sawirada%s wuxuu isticmaalaa daahyada shaashadda sawirka cimilada, daruuraha, iyo walxaha ka dambeeya dhismooyinka translucent-ka iyo biyaha.
+Tani waxay si xun u saameyn kartaa waxqabadka qalabka aaladda la qaadan karo iyo soo bandhigida 4K.
+",
     "options.graphics.fancy": "Malana",
-    "options.graphics.fancy.tooltip": "Sawirro farshaxan leh waxay isku dheelitiraan waxqabadka iyo tayada inta badan mashiinnada.\nCimilada, daruuraha, iyo qulqulayaashu kama muuqan karaan gadaasha burooyinka translucent-ka ama biyaha.\n",
+    "options.graphics.fancy.tooltip": "Sawirro farshaxan leh waxay isku dheelitiraan waxqabadka iyo tayada inta badan mashiinnada.
+Cimilada, daruuraha, iyo qulqulayaashu kama muuqan karaan gadaasha burooyinka translucent-ka ama biyaha.
+",
     "options.graphics.fast": "Soon",
-    "options.graphics.fast.tooltip": "Sawirka degdega ahi wuxuu yareeyaa xaddiga roobka iyo barafka la arki karo.\nSaamaynta hufnaanta ayaa loo naaqusay dhagxaan kala duwan sida caleemaha.\n",
+    "options.graphics.fast.tooltip": "Sawirka degdega ahi wuxuu yareeyaa xaddiga roobka iyo barafka la arki karo.
+Saamaynta hufnaanta ayaa loo naaqusay dhagxaan kala duwan sida caleemaha.
+",
     "options.graphics.warning.accept": "Sii wad taageero la'aan",
     "options.graphics.warning.cancel": "I soo celi",
-    "options.graphics.warning.message": "Qalabkaaga sawirkaaga waxaa loo arkaa mid aan loo taageerin doorashada%% garaafyada sawirada.\nWaad iska indho tirin kartaa tan oo waad sii socon kartaa, hase yeeshee taageero looma siin doono qalabkaaga haddii aad dooratid inaad isticmaasho sawirada%s.",
-    "options.graphics.warning.renderer": "Soo-saare ayaa la ogaaday: [%s]\n",
-    "options.graphics.warning.title": "Aaladda Sawir garaafyada aan la taageerin\n",
-    "options.graphics.warning.vendor": "Ganacsade la ogaaday: [%s]\n",
-    "options.graphics.warning.version": "Nooca OpenGL ayaa la ogaaday: [%s]\n",
+    "options.graphics.warning.message": "Qalabkaaga sawirkaaga waxaa loo arkaa mid aan loo taageerin doorashada%% garaafyada sawirada.
+Waad iska indho tirin kartaa tan oo waad sii socon kartaa, hase yeeshee taageero looma siin doono qalabkaaga haddii aad dooratid inaad isticmaasho sawirada%s.",
+    "options.graphics.warning.renderer": "Soo-saare ayaa la ogaaday: [%s]
+",
+    "options.graphics.warning.title": "Aaladda Sawir garaafyada aan la taageerin
+",
+    "options.graphics.warning.vendor": "Ganacsade la ogaaday: [%s]
+",
+    "options.graphics.warning.version": "Nooca OpenGL ayaa la ogaaday: [%s]
+",
     "options.guiScale": "Gui Miisaanka",
     "options.guiScale.auto": "Awooda",
     "options.hidden": "Maqan",
     "options.hideMatchedNames": "Qari Magacyada u dhigma",
-    "options.hideMatchedNames.tooltip": "Qeybaha 3-aad ee Server wuxuu soo diri karaa fariimo lagu sheekeysto qaabab aan caadi aheyn.\nIkhtiyaarkan oo ku saabsan: ciyaartooyda qarsoon waa la waafajin doonaa iyadoo lagu saleynayo magacyada dirista wada hadalka.",
+    "options.hideMatchedNames.tooltip": "Qeybaha 3-aad ee Server wuxuu soo diri karaa fariimo lagu sheekeysto qaabab aan caadi aheyn.
+Ikhtiyaarkan oo ku saabsan: ciyaartooyda qarsoon waa la waafajin doonaa iyadoo lagu saleynayo magacyada dirista wada hadalka.",
     "options.invertMouse": "Jiid jiid",
     "options.key.hold": "Qabso",
     "options.key.toggle": "Wareeg",
     "options.language": "Luqad...",
     "options.languageWarning": "Turjumaadaha Language laga yaabaa in aanay 100 %% sax ah",
     "options.mainHand": "Gacanta ugu weyn",
-    "options.mainHand.left": "B\u026ad\u026a\u0127",
-    "options.mainHand.right": "M\u026ad\u026ag",
+    "options.mainHand.left": "Bɪdɪħ",
+    "options.mainHand.right": "Mɪdɪg",
     "options.mipmapLevels": "Heerarka Mipmap",
     "options.modelPart.cape": "Cape",
     "options.modelPart.hat": "Koofiyad",
@@ -1731,9 +1931,12 @@
     "options.renderClouds": "Daruuro",
     "options.renderDistance": "Siin Distance",
     "options.resourcepack": "Xirmooyinka khayraadka...",
-    "options.screenEffectScale": "Saamaynta Khaldanaanta\n",
+    "options.screenEffectScale": "Saamaynta Khaldanaanta
+",
     "options.screenEffectScale.off": "Ka bax",
-    "options.screenEffectScale.tooltip": "Xoogga lallabbooni iyo saamaynta shaashadda Netheral portal Nether.\nQiyamka hoose, saamaynta lallabbo ayaa lagu bedelaa midab cagaar ah.\n",
+    "options.screenEffectScale.tooltip": "Xoogga lallabbooni iyo saamaynta shaashadda Netheral portal Nether.
+Qiyamka hoose, saamaynta lallabbo ayaa lagu bedelaa midab cagaar ah.
+",
     "options.sensitivity": "Oo xasaasi ah",
     "options.sensitivity.max": "HYPERSPEED!!!",
     "options.sensitivity.min": "*hamaansasho*",
@@ -1755,22 +1958,31 @@
     "options.visible": "Tusi",
     "options.vsync": "Isticmaal VSync",
     "pack.available.title": "La heli karo",
-    "pack.copyFailure": "Ku guuldarraystay nuqulada\n",
-    "pack.dropConfirm": "Ma rabtaa inaad ku darto xirmooyinka soo socda Minecraft?\n",
-    "pack.dropInfo": "Jiid oo ku dhaji faylalka daaqaddan si aad ugu darto xirmo\n",
-    "pack.folderInfo": "(Dhig faylka xidhmooyinka halkan)\n",
+    "pack.copyFailure": "Ku guuldarraystay nuqulada
+",
+    "pack.dropConfirm": "Ma rabtaa inaad ku darto xirmooyinka soo socda Minecraft?
+",
+    "pack.dropInfo": "Jiid oo ku dhaji faylalka daaqaddan si aad ugu darto xirmo
+",
+    "pack.folderInfo": "(Dhig faylka xidhmooyinka halkan)
+",
     "pack.incompatible": "Aan wada jiri karin",
-    "pack.incompatible.confirm.new": "Xirmadan ayaa loo sameeyay nooc cusub oo ah Minecraft lagana yaabo inaysan si sax ah u shaqeyn.\n",
-    "pack.incompatible.confirm.old": "Xirmadan ayaa loo sameeyay nooc ka sii weyn oo ah Minecraft lagana yaabo inay si sax ah u shaqeynin.\n",
-    "pack.incompatible.confirm.title": "Ma hubtaa inaad rabto rarkan xidhmadan?\n",
+    "pack.incompatible.confirm.new": "Xirmadan ayaa loo sameeyay nooc cusub oo ah Minecraft lagana yaabo inaysan si sax ah u shaqeyn.
+",
+    "pack.incompatible.confirm.old": "Xirmadan ayaa loo sameeyay nooc ka sii weyn oo ah Minecraft lagana yaabo inay si sax ah u shaqeynin.
+",
+    "pack.incompatible.confirm.title": "Ma hubtaa inaad rabto rarkan xidhmadan?
+",
     "pack.incompatible.new": "(Loo abuuray qaybo cusub oo gaboobay)",
     "pack.incompatible.old": "(Waxaa la sameeyey markii hore ee Minecraft)",
     "pack.nameAndSource": "%s (%s)",
-    "pack.openFolder": "Fure Xirmooyinka Furan\n",
+    "pack.openFolder": "Fure Xirmooyinka Furan
+",
     "pack.selected.title": "Xul",
     "pack.source.builtin": "-isay",
     "pack.source.local": "maxalliga ah",
-    "pack.source.server": "server\n",
+    "pack.source.server": "server
+",
     "pack.source.world": "world",
     "potion.potency.3": "IV",
     "potion.potency.4": "V",
@@ -1778,7 +1990,8 @@
     "potion.withAmplifier": "%s %s",
     "potion.withDuration": "%s (%s)",
     "predicate.unknown": "Lama oga saadaalin: %s",
-    "record.nowPlaying": "Hada Ciyaaraya:%s\n",
+    "record.nowPlaying": "Hada Ciyaaraya:%s
+",
     "resourcePack.broken_assets": "MACLUUMAADKA AAN SAX AHAYN",
     "resourcePack.load_fail": "Ku fashilmay rakibida kheyraadka",
     "resourcePack.server.name": "Khayraadka Khaaska ah ee Caalamka",
@@ -1890,7 +2103,8 @@
     "selectWorld.versionUnknown": "lama yaqaan",
     "selectWorld.versionWarning": "Adduunkani wuxuu ugu dambeyntii la ciyaaray version %s waxaana lagu dhejin karaa qaabkan oo keeni kara musuqmaasuq!",
     "selectWorld.world": "Adduunka",
-    "sign.edit": "Tafatir Fariinta Saxeex\n",
+    "sign.edit": "Tafatir Fariinta Saxeex
+",
     "soundCategory.ambient": "Deegaanka / deegaanka",
     "soundCategory.block": "Blocks",
     "soundCategory.hostile": "Dagaal abuuray",
@@ -1904,7 +2118,9 @@
     "spectatorMenu.close": "Ku dhow Mashiinka",
     "spectatorMenu.next_page": "Bogga xiga",
     "spectatorMenu.previous_page": "Boggii hore",
-    "spectatorMenu.root.prompt": "Taabo furaha si aad u dooratid amar, mar kale isticmaalkeeda.\n \nMacnaha guud | Codso Qoraalka Macnaha.",
+    "spectatorMenu.root.prompt": "Taabo furaha si aad u dooratid amar, mar kale isticmaalkeeda.
+ 
+Macnaha guud | Codso Qoraalka Macnaha.",
     "spectatorMenu.team_teleport": "Teleport oo ka tirsan Kooxda Xubinta",
     "spectatorMenu.team_teleport.prompt": "Xulo koox si aad u soo wacdo",
     "spectatorMenu.teleport": "Teleport oo u ciyaara kooxda",
@@ -1912,22 +2128,36 @@
     "stat.minecraft.damage_blocked_by_shield": "Burburkii Gawaarida",
     "stat.minecraft.interact_with_anvil": "Is dhexgalka Dubbe",
     "stat.minecraft.interact_with_grindstone": "Is-dhexgalka la leh Digirta",
-    "stat.minecraft.interact_with_smithing_table": "Is dhexgalka miiska Smithing\n",
+    "stat.minecraft.interact_with_smithing_table": "Is dhexgalka miiska Smithing
+",
     "stat.minecraft.open_barrel": "Foostooyinka la furay",
-    "stat.minecraft.strider_one_cm": "Fogaanshaha Strider\n",
-    "stat.minecraft.target_hit": "Bartilmaameedyada Hit\n",
-    "stat.minecraft.time_since_death": "Waqtigi ilaa dhimashadii ugu dambeysay\n",
-    "stat.minecraft.time_since_rest": "Waqtiga Ilaa iyo nasashada ugu dambeysa\n",
+    "stat.minecraft.strider_one_cm": "Fogaanshaha Strider
+",
+    "stat.minecraft.target_hit": "Bartilmaameedyada Hit
+",
+    "stat.minecraft.time_since_death": "Waqtigi ilaa dhimashadii ugu dambeysay
+",
+    "stat.minecraft.time_since_rest": "Waqtiga Ilaa iyo nasashada ugu dambeysa
+",
     "stat_type.minecraft.broken": "Waqtiga Jilicsan",
-    "structure_block.mode_info.corner": "Habka geeska - Meelaynta iyo Calaamadda cabbirka\n",
-    "structure_block.mode_info.data": "Qaabka Xogta - Sum Logic Marker\n",
-    "structure_block.mode_info.load": "Qaabka Load - Load ka faylka\n",
-    "structure_block.mode_info.save": "Badbaadinta Qaadi - U qor Fayl\n",
-    "structure_block.show_air": "Muuji kutubyada aan la arki karin:\n",
-    "structure_block.show_boundingbox": "Muuji Sanduuqa Xuduudaha:\n",
-    "subtitles.block.beacon.activate": "Beacon waa hawl galiyaa\n",
-    "subtitles.block.beacon.ambient": "Bekon hums\n",
-    "subtitles.block.beacon.deactivate": "Beacon ayaa baabi'isa\n",
+    "structure_block.mode_info.corner": "Habka geeska - Meelaynta iyo Calaamadda cabbirka
+",
+    "structure_block.mode_info.data": "Qaabka Xogta - Sum Logic Marker
+",
+    "structure_block.mode_info.load": "Qaabka Load - Load ka faylka
+",
+    "structure_block.mode_info.save": "Badbaadinta Qaadi - U qor Fayl
+",
+    "structure_block.show_air": "Muuji kutubyada aan la arki karin:
+",
+    "structure_block.show_boundingbox": "Muuji Sanduuqa Xuduudaha:
+",
+    "subtitles.block.beacon.activate": "Beacon waa hawl galiyaa
+",
+    "subtitles.block.beacon.ambient": "Bekon hums
+",
+    "subtitles.block.beacon.deactivate": "Beacon ayaa baabi'isa
+",
     "subtitles.block.beacon.power_select": "Awooda loo yaqaan 'Beakon' waa la doortay",
     "subtitles.block.beehive.drip": "Malab baa daadanaya",
     "subtitles.block.beehive.enter": "Shinni baa galay rugta",
@@ -1935,26 +2165,42 @@
     "subtitles.block.beehive.shear": "Xoq xoqo",
     "subtitles.block.beehive.work": "Shinnida way shaqeynayaan",
     "subtitles.block.bell.use": "Maro giringir ah",
-    "subtitles.block.blastfurnace.fire_crackle": "Qarax duhurkii\n",
-    "subtitles.block.composter.empty": "Composter faaruqiyay\n",
-    "subtitles.block.composter.fill": "Composter buuxi\n",
-    "subtitles.block.composter.ready": "Composter composts\n",
-    "subtitles.block.conduit.activate": "Qabashada hawlqabadka\n",
-    "subtitles.block.conduit.ambient": "Isugeynta dhibcaha\n",
-    "subtitles.block.conduit.attack.target": "Isugeynta dhibcaha\n",
-    "subtitles.block.conduit.deactivate": "Fududeynta ayaa baabi'isa\n",
-    "subtitles.block.enchantment_table.use": "Shaxda Enchanting ee la adeegsaday\n",
+    "subtitles.block.blastfurnace.fire_crackle": "Qarax duhurkii
+",
+    "subtitles.block.composter.empty": "Composter faaruqiyay
+",
+    "subtitles.block.composter.fill": "Composter buuxi
+",
+    "subtitles.block.composter.ready": "Composter composts
+",
+    "subtitles.block.conduit.activate": "Qabashada hawlqabadka
+",
+    "subtitles.block.conduit.ambient": "Isugeynta dhibcaha
+",
+    "subtitles.block.conduit.attack.target": "Isugeynta dhibcaha
+",
+    "subtitles.block.conduit.deactivate": "Fududeynta ayaa baabi'isa
+",
+    "subtitles.block.enchantment_table.use": "Shaxda Enchanting ee la adeegsaday
+",
     "subtitles.block.end_portal.spawn": "End Portal furmay",
-    "subtitles.block.end_portal_frame.fill": "Isha Ender ayaa ku dhagan\n",
+    "subtitles.block.end_portal_frame.fill": "Isha Ender ayaa ku dhagan
+",
     "subtitles.block.grindstone.use": "Weelka loo isticmaalo",
     "subtitles.block.honey_block.slide": "Hoos udhacaya malab",
-    "subtitles.block.portal.travel": "Qaylada xariirka ayaa sii xumaata\n",
-    "subtitles.block.portal.trigger": "Qaylada xariirka ayaa sii xoogaysata\n",
+    "subtitles.block.portal.travel": "Qaylada xariirka ayaa sii xumaata
+",
+    "subtitles.block.portal.trigger": "Qaylada xariirka ayaa sii xoogaysata
+",
     "subtitles.block.pumpkin.carve": "Xiirane",
-    "subtitles.block.respawn_anchor.charge": "Respawn Anchor waa la xukumay\n",
-    "subtitles.block.respawn_anchor.deplete": "Dib-u-hagaajinta Xarigga ayaa dillaacday\n",
-    "subtitles.block.respawn_anchor.set_spawn": "Dib-u-hagaajinta Anchor waa la gooyaa\n",
-    "subtitles.block.smithing_table.use": "Miiska Smithing loo isticmaalay\n",
+    "subtitles.block.respawn_anchor.charge": "Respawn Anchor waa la xukumay
+",
+    "subtitles.block.respawn_anchor.deplete": "Dib-u-hagaajinta Xarigga ayaa dillaacday
+",
+    "subtitles.block.respawn_anchor.set_spawn": "Dib-u-hagaajinta Anchor waa la gooyaa
+",
+    "subtitles.block.smithing_table.use": "Miiska Smithing loo isticmaalay
+",
     "subtitles.entity.bee.ambient": "Beezzes",
     "subtitles.entity.bee.death": "Shinni way dhimaneysaa",
     "subtitles.entity.bee.hurt": "Shinni dhaawacmay",
@@ -1965,10 +2211,14 @@
     "subtitles.entity.boat.paddle_land": "Row",
     "subtitles.entity.boat.paddle_water": "Row",
     "subtitles.entity.cat.beg_for_food": "Bisadaha",
-    "subtitles.entity.cat.eat": "Bisadu wax bay cuntaa\n",
-    "subtitles.entity.cat.hiss": "Bisaddiisa\n",
-    "subtitles.entity.cat.purr": "Nadiifinta bisadda\n",
-    "subtitles.entity.donkey.eat": "Dameeraha ayaa cuna\n",
+    "subtitles.entity.cat.eat": "Bisadu wax bay cuntaa
+",
+    "subtitles.entity.cat.hiss": "Bisaddiisa
+",
+    "subtitles.entity.cat.purr": "Nadiifinta bisadda
+",
+    "subtitles.entity.donkey.eat": "Dameeraha ayaa cuna
+",
     "subtitles.entity.drowned.ambient": "Qalabka laftiray",
     "subtitles.entity.drowned.ambient_water": "Qalabka laftiray",
     "subtitles.entity.drowned.death": "Drowned way dhimanaysaa",
@@ -1976,22 +2226,35 @@
     "subtitles.entity.drowned.shoot": "Burburin la tuuray Trident",
     "subtitles.entity.drowned.step": "Tallaabooyin la tuuray",
     "subtitles.entity.drowned.swim": "Dabbaalanaa daalan",
-    "subtitles.entity.ender_eye.death": "Isha Ender way dhacdaa\n",
-    "subtitles.entity.fishing_bobber.retrieve": "Bobber waa la helay\n",
-    "subtitles.entity.fox.teleport": "Telefishinka Fox\n",
-    "subtitles.entity.hoglin.ambient": "Hoglin wey kortay\n",
-    "subtitles.entity.hoglin.angry": "Hoglin ayaa xanaaqday\n",
-    "subtitles.entity.hoglin.attack": "Weerarada Hoglin\n",
-    "subtitles.entity.hoglin.converted_to_zombified": "Hoglin ayaa loo beddelay Zoglin\n",
-    "subtitles.entity.hoglin.death": "Hoglin wuu dhintaa\n",
-    "subtitles.entity.hoglin.hurt": "Hoglin way dhaawacaysaa\n",
-    "subtitles.entity.hoglin.retreat": "Hoglin ayaa dib u gurtay\n",
-    "subtitles.entity.hoglin.step": "Tallaabooyinka Hoglin\n",
+    "subtitles.entity.ender_eye.death": "Isha Ender way dhacdaa
+",
+    "subtitles.entity.fishing_bobber.retrieve": "Bobber waa la helay
+",
+    "subtitles.entity.fox.teleport": "Telefishinka Fox
+",
+    "subtitles.entity.hoglin.ambient": "Hoglin wey kortay
+",
+    "subtitles.entity.hoglin.angry": "Hoglin ayaa xanaaqday
+",
+    "subtitles.entity.hoglin.attack": "Weerarada Hoglin
+",
+    "subtitles.entity.hoglin.converted_to_zombified": "Hoglin ayaa loo beddelay Zoglin
+",
+    "subtitles.entity.hoglin.death": "Hoglin wuu dhintaa
+",
+    "subtitles.entity.hoglin.hurt": "Hoglin way dhaawacaysaa
+",
+    "subtitles.entity.hoglin.retreat": "Hoglin ayaa dib u gurtay
+",
+    "subtitles.entity.hoglin.step": "Tallaabooyinka Hoglin
+",
     "subtitles.entity.husk.converted_to_zombie": "Husk wuxuu u beddelay Zombie",
     "subtitles.entity.iron_golem.damage": "Birta Golem ayaa jabaysa",
     "subtitles.entity.iron_golem.repair": "Birta Golem wuu hagaajiyay",
-    "subtitles.entity.mule.angry": "Mule deris\n",
-    "subtitles.entity.mule.eat": "Mule cuno\n",
+    "subtitles.entity.mule.angry": "Mule deris
+",
+    "subtitles.entity.mule.eat": "Mule cuno
+",
     "subtitles.entity.panda.aggressive_ambient": "Panda huffs",
     "subtitles.entity.panda.ambient": "Suufiyada Panda",
     "subtitles.entity.panda.bite": "Qaniinyada Panda",
@@ -2003,25 +2266,43 @@
     "subtitles.entity.panda.sneeze": "Panda hindhisada",
     "subtitles.entity.panda.step": "Tallaabooyinka Panda",
     "subtitles.entity.panda.worried_ambient": "Panda shimbiraha",
-    "subtitles.entity.parrot.fly": "Qulqulka digaagga\n",
-    "subtitles.entity.parrot.imitate.hoglin": "Korodh ubaxyo leh\n",
-    "subtitles.entity.parrot.imitate.piglin": "Snorts parro\n",
-    "subtitles.entity.parrot.imitate.piglin_brute": "Si xoog leh ayaa loo yaqaan 'Parrot'\n",
-    "subtitles.entity.parrot.imitate.zoglin": "Korodh ubaxyo leh\n",
-    "subtitles.entity.piglin.admiring_item": "Piglin wuu qaddariyo sheyga\n",
-    "subtitles.entity.piglin.ambient": "Piglin snorts\n",
-    "subtitles.entity.piglin.angry": "Piglin xanaaq buu xanaaqaa\n",
-    "subtitles.entity.piglin.celebrate": "Piglin ayaa u dabaaldegaya\n",
-    "subtitles.entity.piglin.converted_to_zombified": "Piglin wuxuu u beddelaa Zombified Piglin\n",
-    "subtitles.entity.piglin.death": "Piglin wuu dhintaa\n",
-    "subtitles.entity.piglin.hurt": "Piglin wuu xanuujiyaa\n",
-    "subtitles.entity.piglin.jealous": "Piglin snorts si hufan\n",
-    "subtitles.entity.piglin.retreat": "Baxsashada Piglin\n",
-    "subtitles.entity.piglin.step": "Tallaabooyinka Piglin\n",
-    "subtitles.entity.piglin_brute.ambient": "Piglin Brute snorts\n",
-    "subtitles.entity.piglin_brute.angry": "Piglin Brute xanaaq buu xanaaqaa\n",
+    "subtitles.entity.parrot.fly": "Qulqulka digaagga
+",
+    "subtitles.entity.parrot.imitate.hoglin": "Korodh ubaxyo leh
+",
+    "subtitles.entity.parrot.imitate.piglin": "Snorts parro
+",
+    "subtitles.entity.parrot.imitate.piglin_brute": "Si xoog leh ayaa loo yaqaan 'Parrot'
+",
+    "subtitles.entity.parrot.imitate.zoglin": "Korodh ubaxyo leh
+",
+    "subtitles.entity.piglin.admiring_item": "Piglin wuu qaddariyo sheyga
+",
+    "subtitles.entity.piglin.ambient": "Piglin snorts
+",
+    "subtitles.entity.piglin.angry": "Piglin xanaaq buu xanaaqaa
+",
+    "subtitles.entity.piglin.celebrate": "Piglin ayaa u dabaaldegaya
+",
+    "subtitles.entity.piglin.converted_to_zombified": "Piglin wuxuu u beddelaa Zombified Piglin
+",
+    "subtitles.entity.piglin.death": "Piglin wuu dhintaa
+",
+    "subtitles.entity.piglin.hurt": "Piglin wuu xanuujiyaa
+",
+    "subtitles.entity.piglin.jealous": "Piglin snorts si hufan
+",
+    "subtitles.entity.piglin.retreat": "Baxsashada Piglin
+",
+    "subtitles.entity.piglin.step": "Tallaabooyinka Piglin
+",
+    "subtitles.entity.piglin_brute.ambient": "Piglin Brute snorts
+",
+    "subtitles.entity.piglin_brute.angry": "Piglin Brute xanaaq buu xanaaqaa
+",
     "subtitles.entity.piglin_brute.converted_to_zombified": "Piglin wuxuu u beddelaa Zombified Piglin",
-    "subtitles.entity.piglin_brute.death": "Piglin Brute waa dhintey\n",
+    "subtitles.entity.piglin_brute.death": "Piglin Brute waa dhintey
+",
     "subtitles.entity.piglin_brute.hurt": "Piglin Brute waa dhintey",
     "subtitles.entity.piglin_brute.step": "Piglin Brute waa dhintey",
     "subtitles.entity.pillager.ambient": "Pillager gunuunac",
@@ -2092,7 +2373,8 @@
     "team.visibility.never": "Marnaba",
     "title.multiplayer.disabled": "Multiplayer waa naafo yahay. Fadlan iska hubi dejinta qalabkaaga.",
     "title.multiplayer.lan": "Kumbuyuutar (LAN)",
-    "title.multiplayer.other": "Multiplayer (Server-ka xisbiga 3-aad)\n",
+    "title.multiplayer.other": "Multiplayer (Server-ka xisbiga 3-aad)
+",
     "title.multiplayer.realms": "Kumbuyuutar (Dhismooyinka)",
     "title.oldgl.deprecation.line1": "Kaarka naqshadeynta Old ogaado; waxa aad looga hortago laga yaabaa in",
     "title.oldgl.deprecation.line2": "ciyaar mustaqbalka marka OpenGL 3.2 loo baahan doono!",

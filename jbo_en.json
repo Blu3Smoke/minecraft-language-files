@@ -126,7 +126,7 @@
     "attribute.modifier.equals.2": "%s%% %s",
     "attribute.modifier.plus.0": "+%s %s",
     "attribute.modifier.plus.1": "+%s%% %s",
-    "attribute.modifier.plus.2": "\uff0b%s%% %s",
+    "attribute.modifier.plus.2": "＋%s%% %s",
     "attribute.modifier.take.0": "-%s %s",
     "attribute.modifier.take.1": "-%s%% %s",
     "attribute.modifier.take.2": "-%s%% %s",
@@ -1634,7 +1634,8 @@
     "dataPack.validation.reset": "xruti fi lo zmiku",
     "dataPack.validation.working": ".i cipcta lo selcu'a datnygunma",
     "datapackFailure.safeMode": "snura samymo'i",
-    "datapackFailure.title": ".i lo selsre pe lo ca selcu'a datnygunma cu fanta lo nu samymo'i le munje\n.i .e'u do ga troci lo nu samymo'i se pi'o lo zmiselcu'a ku po'o (to la snura toi) gi xruti fi lo ralste je cu sezbanzu cikre",
+    "datapackFailure.title": ".i lo selsre pe lo ca selcu'a datnygunma cu fanta lo nu samymo'i le munje
+.i .e'u do ga troci lo nu samymo'i se pi'o lo zmiselcu'a ku po'o (to la snura toi) gi xruti fi lo ralste je cu sezbanzu cikre",
     "death.attack.arrow": "la'o zy. %1$s .zy. te renro lo celga'a la'o zy. %2$s .zy.",
     "death.attack.arrow.item": "la'oi %1$s cu se celcatra la'oi %2$s se pi'o %3$s",
     "death.attack.badRespawnPoint.message": ".i la'oi %1$s cu selcatra la'oi %2$s",
@@ -2550,7 +2551,7 @@
     "key.inventory": "kalri onai ga'orgau selvensro",
     "key.jump": "plipe",
     "key.keyboard.apostrophe": "'",
-    "key.keyboard.backslash": "\\",
+    "key.keyboard.backslash": "\",
     "key.keyboard.backspace": "la bakspeis.",
     "key.keyboard.caps.lock": "Caps Lock",
     "key.keyboard.comma": ",",
@@ -2800,14 +2801,19 @@
     "options.generic_value": "%s:%s",
     "options.graphics": "lo nu terxra ku",
     "options.graphics.fabulous": "zabna",
-    "options.graphics.fabulous.tooltip": ".i lo %s ke samxra tadji cu pilno lo xraproga lo nu jarco lo tcima je lo dilnu je lo kantu vu'o poi trixe lo guskli bliku\n.i la'e di'u ka'e carmi jdikygau lo kamsutra va'o lo selbevyskami je lo barda vidni",
+    "options.graphics.fabulous.tooltip": ".i lo %s ke samxra tadji cu pilno lo xraproga lo nu jarco lo tcima je lo dilnu je lo kantu vu'o poi trixe lo guskli bliku
+.i la'e di'u ka'e carmi jdikygau lo kamsutra va'o lo selbevyskami je lo barda vidni",
     "options.graphics.fancy": "melbi",
-    "options.graphics.fancy.tooltip": ".i lo melbi ke samxra tadji cu lanxe lo kamsutra jo'u lo kamymle va'o so'a skami\n.i lo tcima je lo dilnu je lo kantu ka'e canci ti'a lo guskli bliku",
+    "options.graphics.fancy.tooltip": ".i lo melbi ke samxra tadji cu lanxe lo kamsutra jo'u lo kamymle va'o so'a skami
+.i lo tcima je lo dilnu je lo kantu ka'e canci ti'a lo guskli bliku",
     "options.graphics.fast": "sutra",
-    "options.graphics.fast.tooltip": ".i lo sutra ke samxra tadji cu jarco me'i jacycarvi ja snimycarvi\n.i ji'a so'o bliku mu'u lo pezli na guskli",
+    "options.graphics.fast.tooltip": ".i lo sutra ke samxra tadji cu jarco me'i jacycarvi ja snimycarvi
+.i ji'a so'o bliku mu'u lo pezli na guskli",
     "options.graphics.warning.accept": "di'a pilno",
     "options.graphics.warning.cancel": "dicra",
-    "options.graphics.warning.message": ".i ganse lo du'u lo do xraskami na sarxe lo %s ke samxra tadji\n\n.i .e'a do toljundi la'e di'u .i ku'i mi'a ka'e nai sarji do fau lo nu do se nabmi ra'a lo %s samxra",
+    "options.graphics.warning.message": ".i ganse lo du'u lo do xraskami na sarxe lo %s ke samxra tadji
+
+.i .e'a do toljundi la'e di'u .i ku'i mi'a ka'e nai sarji do fau lo nu do se nabmi ra'a lo %s samxra",
     "options.graphics.warning.renderer": ".i cmene lo selga'e xrapra fa zo'oi %s",
     "options.graphics.warning.title": "na sarji lo do xraskami",
     "options.graphics.warning.vendor": ".i cmene lo selga'e vecnu fa zo'oi %s",
@@ -2853,7 +2859,8 @@
     "options.resourcepack": "xragri",
     "options.screenEffectScale": "lo sarlu nilcne",
     "options.screenEffectScale.off": "itka",
-    "options.screenEffectScale.tooltip": ".i ni lo vidni cu sarlybi'o va'o lo nu vatydji je lo nu pilno lo mafyvro\n.i lo cmana'u zo'u lo nu sarlu ku pe lo nu vatydji cu se basti lo nu crino",
+    "options.screenEffectScale.tooltip": ".i ni lo vidni cu sarlybi'o va'o lo nu vatydji je lo nu pilno lo mafyvro
+.i lo cmana'u zo'u lo nu sarlu ku pe lo nu vatydji cu se basti lo nu crino",
     "options.sensitivity": "frati co",
     "options.sensitivity.max": "gusni sutra cai",
     "options.sensitivity.min": "snotce",
