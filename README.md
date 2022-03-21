@@ -6,127 +6,127 @@ The `.json` language files for Minecraft 1.16.1.
 
 Below is the table of every supported language name and which file has its data.
 
-| Language | Language File Name |
---------------- | ------------------ |
-| Af-Soomaali | `so_so.json` |
-| Afrikaans | `af_za.json` |
-| Andalûh | `esan.json` |
-| Anglish | `enp.json` |
-| Asturianu | `ast_es.json` |
-| Azərbaycanca | `az_az.json` |
-| Bahasa Indonesia | `id_id.json` |
-| Bahasa Melayu | `ms_my.json` |
-| Boarisch | `bar.json` |
-| Bosanski | `bs_ba.json` |
-| Brabants | `brb.json` |
-| Brezhoneg | `br_fr.json` |
-| Català (Valencià) | `val_es.json` |
-| Català | `ca_es.json` |
-| Cymraeg | `cy_gb.json` |
-| Dansk | `da_dk.json` |
-| Davvisámegiella | `se_no.json` |
-| Deitsch | `de_at.json` |
-| Deutsch | `de_de.json` |
-| Eesti keel | `et_ee.json` |
-| English | `en_au.json` |
-| English | `en_ca.json` |
-| English | `en_gb.json` |
-| English | `en_nz.json` |
-| Español | `es_ar.json` |
-| Español | `es_cl.json` |
-| Español | `es_ec.json` |
-| Español | `es_es.json` |
-| Español | `es_mx.json` |
-| Español | `es_uy.json` |
-| Español | `es_ve.json` |
-| Esperanto | `eo_uy.json` |
-| Euskara | `eu_es.json` |
-| Filipino | `fil_ph.json` |
-| Føroyskt | `fo_fo.json` |
-| Français | `fr_ca.json` |
-| Français | `fr_fr.json` |
-| Fränggisch | `fra_de.json` |
-| Frysk | `fy_nl.json` |
-| Gaeilge | `ga_ie.json` |
-| Gaelg | `gv_im.json` |
-| Gàidhlig | `gd_gb.json` |
-| Galego | `gl_es.json` |
-| Hrvatski | `hr_hr.json` |
-| Ido | `io_en.json` |
-| Igbo | `ig_ng.json` |
-| Íslenska | `is_is.json` |
-| Italiano | `it_it.json` |
-| Kernewek | `kw_gb.json` |
-| Kölsch/Ripoarisch | `ksh.json` |
-| LOLCAT | `lol_us.json` |
-| Latina | `la_la.json` |
-| Latviešu | `lv_lv.json` |
-| Lëtzebuergesch | `lb_lu.json` |
-| Lietuvių | `lt_lt.json` |
-| Limburgs | `li_li.json` |
-| Lombard | `lmo.json` |
-| Magyar | `hu_hu.json` |
-| Malti | `mt_mt.json` |
-| Medžuslovjansky | `isv.json` |
-| Nederlands | `nl_nl.json` |
-| Norsk bokmål | `no_no.json` |
-| Norsk nynorsk | `nn_no.json` |
-| Occitan | `oc_fr.json` |
-| Oschdallgaiarisch | `swg.json` |
-| Övdalska | `ovd.json` |
-| Pirate Speak | `en_pt.json` |
-| Plattdüütsch | `nds_de.json` |
-| Polski | `pl_pl.json` |
-| Português | `pt_br.json` |
-| Português | `pt_pt.json` |
-| Quenya | `qya_aa.json` |
-| Română | `ro_ro.json` |
-| Säggs'sch | `sxu.json` |
-| Schwiizerdütsch | `de_ch.json` |
-| Shakespearean English | `enws.json` |
-| Shqip | `sq_al.json` |
-| Slovenčina | `sk_sk.json` |
-| Slovenščina | `sl_si.json` |
-| Suomi | `fi_fi.json` |
-| Svenska | `sv_se.json` |
-| Tagalog | `tl_ph.json` |
-| Te Reo Māori | `mi_nz.json` |
-| Tiếng Việt | `vi_vn.json` |
-| Türkçe | `tr_tr.json` |
-| Vèneto | `vec_it.json` |
-| Vlaams | `nl_be.json` |
-| Yorùbá | `yo_ng.json` |
-| la .lojban. | `jbo_en.json` |
-| tlhIngan Hol | `tlh_aa.json` |
-| Čeština | `cs_cz.json` |
-| Ślōnskŏ | `szl.json` |
-| ɥsᴉꞁᵷuƎ | `en_ud.json` |
-| 文言 | `lzh.json` |
-| ʻŌlelo Hawaiʻi | `haw_us.json` |
-| 日本語 | `ja_jp.json` |
-| 한국어 | `ko_kr.json` |
-| ไทย | `th_th.json` |
-| 简体中文 | `zh_cn.json` |
-| 繁體中文 | `zh_hk.json` |
-| 繁體中文 | `zh_tw.json` |
-| فارسی | `fa_ir.json` |
-| עברית | `he_il.json` |
-| हिंदी | `hi_in.json` |
-| ಕನ್ನಡ | `kn_in.json` |
-| தமிழ் | `ta_in.json` |
-| Монгол | `mn_mn.json` |
-| Српски | `sr_sp.json` |
-| ייִדיש | `yi_de.json` |
-| العربية | `ar_sa.json` |
-| Հայերեն | `hy_am.json` |
-| ქართული | `ka_ge.json` |
-| Қазақша | `kk_kz.json` |
-| Русский | `ru_ru.json` |
-| Татарча | `tt_ru.json` |
-| Ελληνικά | `el_gr.json` |
-| Башҡортса | `ba_ru.json` |
-| Български | `bg_bg.json` |
-| Беларуская | `be_by.json` |
-| Македонски | `mk_mk.json` |
-| Українська | `uk_ua.json` |
-| Дореформенный русскій | `rpr.json` |
+| Language | Region | Language File Name |
+| --- | --- | --- |
+| Af-Soomaali | Soomaaliya | `so_so.json` |
+| Afrikaans | Suid-Afrika | `af_za.json` |
+| Andalûh | Andaluçía | `esan.json` |
+| Anglish | Foroned Kingdom | `enp.json` |
+| Asturianu | Asturies | `ast_es.json` |
+| Azərbaycanca | Azərbaycan | `az_az.json` |
+| Bahasa Indonesia | Indonesia | `id_id.json` |
+| Bahasa Melayu | Malaysia | `ms_my.json` |
+| Boarisch | Bayern | `bar.json` |
+| Bosanski | Bosna i Hercegovina | `bs_ba.json` |
+| Brabants | Nederland | `brb.json` |
+| Brezhoneg | Breizh | `br_fr.json` |
+| Català (Valencià) | Comunitat Valenciana | `val_es.json` |
+| Català | Catalunya | `ca_es.json` |
+| Cymraeg | Cymru | `cy_gb.json` |
+| Dansk | Danmark | `da_dk.json` |
+| Davvisámegiella | Sápmi | `se_no.json` |
+| Deitsch | Österreich | `de_at.json` |
+| Deutsch | Deutschland | `de_de.json` |
+| Eesti keel | Eesti | `et_ee.json` |
+| English | Australia | `en_au.json` |
+| English | Canada | `en_ca.json` |
+| English | New Zealand | `en_nz.json` |
+| English | United Kingdom | `en_gb.json` |
+| Español | Argentina | `es_ar.json` |
+| Español | Chile | `es_cl.json` |
+| Español | Ecuador | `es_ec.json` |
+| Español | España | `es_es.json` |
+| Español | México | `es_mx.json` |
+| Español | Uruguay | `es_uy.json` |
+| Español | Venezuela | `es_ve.json` |
+| Esperanto | Esperantujo | `eo_uy.json` |
+| Euskara | Euskal Herria | `eu_es.json` |
+| Filipino | Pilipinas | `fil_ph.json` |
+| Føroyskt | Føroyar | `fo_fo.json` |
+| Français | Canada | `fr_ca.json` |
+| Français | France | `fr_fr.json` |
+| Fränggisch | Franggn | `fra_de.json` |
+| Frysk | Fryslân | `fy_nl.json` |
+| Gaeilge | Éire | `ga_ie.json` |
+| Gaelg | Ellan Vannin | `gv_im.json` |
+| Gàidhlig | Alba | `gd_gb.json` |
+| Galego | Galicia / Galiza | `gl_es.json` |
+| Hrvatski | Hrvatska | `hr_hr.json` |
+| Ido | Idia | `io_en.json` |
+| Igbo | Naigeria | `ig_ng.json` |
+| Íslenska | Ísland | `is_is.json` |
+| Italiano | Italia | `it_it.json` |
+| Kernewek | Kernow | `kw_gb.json` |
+| Kölsch/Ripoarisch | Rhingland | `ksh.json` |
+| LOLCAT | Kingdom of Cats | `lol_us.json` |
+| Latina | Latium | `la_la.json` |
+| Latviešu | Latvija | `lv_lv.json` |
+| Lëtzebuergesch | Lëtzebuerg | `lb_lu.json` |
+| Lietuvių | Lietuva | `lt_lt.json` |
+| Limburgs | Limburg | `li_li.json` |
+| Lombard | Lombardia | `lmo.json` |
+| Magyar | Magyarország | `hu_hu.json` |
+| Malti | Malta | `mt_mt.json` |
+| Medžuslovjansky | Slovjanščina | `isv.json` |
+| Nederlands | Nederland | `nl_nl.json` |
+| Norsk bokmål | Norge | `no_no.json` |
+| Norsk nynorsk | Noreg | `nn_no.json` |
+| Occitan | Occitània | `oc_fr.json` |
+| Oschdallgaiarisch | Allgai | `swg.json` |
+| Övdalska | Swerre | `ovd.json` |
+| Pirate Speak | The Seven Seas | `en_pt.json` |
+| Plattdüütsch | Düütschland | `nds_de.json` |
+| Polski | Polska | `pl_pl.json` |
+| Português | Brasil | `pt_br.json` |
+| Português | Portugal | `pt_pt.json` |
+| Quenya | Arda | `qya_aa.json` |
+| Română | România | `ro_ro.json` |
+| Säggs'sch | Saggsn | `sxu.json` |
+| Schwiizerdütsch | Schwiz | `de_ch.json` |
+| Shakespearean English | Kingdom of England | `enws.json` |
+| Shqip | Shqipëri | `sq_al.json` |
+| Slovenčina | Slovensko | `sk_sk.json` |
+| Slovenščina | Slovenija | `sl_si.json` |
+| Suomi | Suomi | `fi_fi.json` |
+| Svenska | Sverige | `sv_se.json` |
+| Tagalog | Pilipinas | `tl_ph.json` |
+| Te Reo Māori | Aotearoa | `mi_nz.json` |
+| Tiếng Việt | Việt Nam | `vi_vn.json` |
+| Türkçe | Türkiye | `tr_tr.json` |
+| Vèneto | Veneto | `vec_it.json` |
+| Vlaams | België | `nl_be.json` |
+| Yorùbá | Nàìjíríà | `yo_ng.json` |
+| la .lojban. | la jbogu'e | `jbo_en.json` |
+| tlhIngan Hol | tlhIngan wo' | `tlh_aa.json` |
+| Čeština | Česko | `cs_cz.json` |
+| Ślōnskŏ | Gōrny Ślōnsk | `szl.json` |
+| ɥsᴉꞁᵷuƎ | uʍoᗡ ǝpᴉsd∩ | `en_ud.json` |
+| 文言 | 華夏 | `lzh.json` |
+| ʻŌlelo Hawaiʻi | Hawaiʻi | `haw_us.json` |
+| 日本語 | 日本 | `ja_jp.json` |
+| 한국어 | 대한민국 | `ko_kr.json` |
+| ไทย | ประเทศไทย | `th_th.json` |
+| 简体中文 | 中国 | `zh_cn.json` |
+| 繁體中文 | 香港 | `zh_hk.json` |
+| 繁體中文 | 台灣 | `zh_tw.json` |
+| हिंदी | भारत | `hi_in.json` |
+| ಕನ್ನಡ | ಭಾರತ | `kn_in.json` |
+| فارسی | ايران | `fa_ir.json` |
+| עברית | ישראל | `he_il.json` |
+| தமிழ் | இந்தியா | `ta_in.json` |
+| Српски | Србија | `sr_sp.json` |
+| Монгол | Монгол Улс | `mn_mn.json` |
+| ייִדיש | אשכנזישע יידן | `yi_de.json` |
+| Татарча | Рәсәй | `tt_ru.json` |
+| Русский | Россия | `ru_ru.json` |
+| العربية | العالم العربي | `ar_sa.json` |
+| Հայերեն | Հայաստան | `hy_am.json` |
+| Қазақша | Қазақстан | `kk_kz.json` |
+| ქართული | საქართველო | `ka_ge.json` |
+| Ελληνικά | Ελλάδα | `el_gr.json` |
+| Башҡортса | Рәсәй | `ba_ru.json` |
+| Български | България | `bg_bg.json` |
+| Українська | Україна | `uk_ua.json` |
+| Беларуская | Беларусь | `be_by.json` |
+| Македонски | Македонија | `mk_mk.json` |
+| Дореформенный русскій | Русь | `rpr.json` |
